@@ -39,3 +39,8 @@ A list of online courses and other resources helping me in becoming a Front-End 
 ## Youtube Videos/Channels
 
 * [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+
+
+## Books
+
+* HTML & CSS: Design and Bulid Websites | 2011 | John Duckett
