@@ -6,7 +6,6 @@
 * Make a Website ==> COMPLETED | 03/2017
 * Learn Javascript ==> COMPLETED | 02/2017
 * Learn jQuery ==> COMPLETED | 06/05/2017
-
 * Learn the Command Line ==> 46%
 * Javascript ==> 36%
 * Learn Git ==> 6%
@@ -33,3 +32,7 @@
 
 
 ## eCollege.ie
+
+## Youtube Videos/Channels
+
+[DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
