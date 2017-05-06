@@ -1,6 +1,6 @@
 # Personal Web Development Curriculum
 
-## Codecademy [Visit my Profile](href="https://www.codecademy.com/sebam2k4")
+## Codecademy [Visit my Profile](https://www.codecademy.com/sebam2k4)
 
 - Learn HTML & CSS Part ==> COMPLETED | 03/2017
 - Make a Website ==> COMPLETED | 03/2017
