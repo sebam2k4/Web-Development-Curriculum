@@ -1,11 +1,12 @@
 # Personal Web Development Curriculum
 
-## Codecademy [<a href="https://www.codecademy.com/sebam2k4" target="_blank">Visit my Profile</a>]
+## Codecademy [Visit my Profile](href="https://www.codecademy.com/sebam2k4")
 
 - Learn HTML & CSS Part ==> COMPLETED | 03/2017
 - Make a Website ==> COMPLETED | 03/2017
 - Learn Javascript ==> COMPLETED | 02/2017
 - Learn jQuery ==> COMPLETED | 06/05/2017
+
 
 - Learn the Command Line ==> 46%
 - Javascript ==> 36%
