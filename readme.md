@@ -1,12 +1,13 @@
+# Personal Web Development Curriculum
 
-##Codecademy
+## Codecademy
 
 - skills completed: 4
 - badges earned: 83
 - points earned: 449
 
-##Edx.org
+## Edx.org
 
-##Udemy
+## Udemy
 
-##eCollege.ie
+## eCollege.ie
