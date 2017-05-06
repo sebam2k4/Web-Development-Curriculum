@@ -1,5 +1,8 @@
 # Personal Web Development Curriculum
 
+A list of online courses and other resources helping me in becoming a Front-End Web Developer!
+
+
 ## Codecademy [Visit my Profile](https://www.codecademy.com/sebam2k4)
 
 * Learn HTML & CSS Part ==> COMPLETED | 03/2017
@@ -35,4 +38,4 @@
 
 ## Youtube Videos/Channels
 
-[DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+* [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
