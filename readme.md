@@ -3,9 +3,9 @@
 A list of online courses and other resources helping me in becoming a Front-End Web Developer!
 
 
-## Codecademy [Visit my Profile](https://www.codecademy.com/sebam2k4)
+## [Codecademy](../tree/master/Codecademy)
 
-* Learn HTML & CSS Part ==> COMPLETED | 03/2017
+* Learn HTML & CSS Part 1 ==> COMPLETED | 03/2017
 * Make a Website ==> COMPLETED | 03/2017
 * Learn Javascript ==> COMPLETED | 02/2017
 * Learn jQuery ==> COMPLETED | 06/05/2017
