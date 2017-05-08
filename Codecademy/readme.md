@@ -34,6 +34,21 @@
 6. jQuery Projects 
 7. jQuery Final Project
 
+### Ruby
+#### See completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (May need a Cloud9 account to view)
+1. Introduction to Ruby
+2. Control Flow in Ruby
+3. Looping with Ruby
+4. Arrays and Hashes
+5. Blocks and Sorting
+6. Hashes and Symbols
+7. Refactoring
+8. Blocks, Procs, and Lambdas
+9. Object-Oriented Programming, Part 1
+10. Object-Oriented Programming, Part 2
+11. Ruby Final Project
+
+
 ### Learn the Command Line ==> 46%
 1. Navigating the File System
 2. Viewing and Changing the File System
