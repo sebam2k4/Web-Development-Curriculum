@@ -12,11 +12,13 @@
 8. Images
 9. HTML Tables
 
+
 ### Make a Website ==> COMPLETED | 03/2017
 1. Site Structure
 2. A Closer Look at CSS
 3. Boundaries and Space
 4. Building with Bootstrap
+
 
 ### Learn Javascript ==> COMPLETED | 02/2017
 1. Introduction to JavaScript
@@ -24,6 +26,7 @@
 3. Functions and Scope
 4. Arrays and Loops
 5. JavaScript and jQuery
+
 
 ### Learn jQuery ==> COMPLETED | 06/05/2017
 1. Introducing jQuery
@@ -34,32 +37,27 @@
 6. jQuery Projects 
 7. jQuery Final Project
 
+
 ### Ruby
 #### See completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (May need a Cloud9 account to view)
 1. Introduction to Ruby
 2. Control Flow in Ruby
-3. Looping with Ruby
-4. Arrays and Hashes
-5. Blocks and Sorting
-6. Hashes and Symbols
-7. Refactoring
-8. Blocks, Procs, and Lambdas
-9. Object-Oriented Programming, Part 1
-10. Object-Oriented Programming, Part 2
-11. Ruby Final Project
 
 
 ### Learn the Command Line ==> 46%
 1. Navigating the File System
 2. Viewing and Changing the File System
 
+
 ### Javascript ==> 36%
 1. Introduction to JavaScript
 2. Functions
 3. 'For' Loops in JavaScript
 
+
 ### Learn Git ==> 6%
 1. Basic Git Workflow
+
 
 ### Deploy a Website ==> 33%
 1. Create a Static Website Using Jekyll
