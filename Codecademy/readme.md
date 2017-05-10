@@ -38,10 +38,11 @@
 7. jQuery Final Project
 
 
-### Ruby
+### Ruby ==> 31%
 #### See completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (May need a Cloud9 account to view)
 1. Introduction to Ruby
 2. Control Flow in Ruby
+3. Looping with Ruby
 
 
 ### Learn the Command Line ==> 46%
