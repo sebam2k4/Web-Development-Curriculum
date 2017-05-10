@@ -34,9 +34,15 @@ A list of online courses and other resources helping me in becoming a Front-End 
 * The Ruby Language ==> COMMPLETED | 08/05/2017
 * Build a Real Startup ==> In progress
 
+### CompTIA A+ Certification 901. The Total Course | Mike Meyers
+#### ==> COMPLETED | 22/03/2017 | Exam 200-901 passed 14/4/2017 | Score: 758/900
+
+## wesbos.com
 
 ## eCollege.ie
-
+ * CompTIA A+ 900 Series ==> In Progress
+ 
+ 
 ## Youtube Videos/Channels
 
 * [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
