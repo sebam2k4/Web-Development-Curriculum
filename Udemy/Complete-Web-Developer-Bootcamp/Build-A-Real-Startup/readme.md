@@ -1,6 +1,8 @@
 # Build a Real Startup - Saas Ruby Project Application
 
 ## Dev Match - Rails Subscription Site
+* Heroku Production page: [Link](https://enigmatic-wildwood-68995.herokuapp.com/)
+* Cloud9 source files: [Link](https://ide.c9.io/sebam2k4/devmatch_saas)
 
 ### What we are building:
 * Membership-based web application where users can sign up for free or pay monthly subscription fee for access to our site (Software-as-a-Service)
@@ -19,4 +21,5 @@
 7. Create user profiles that can be edited, along with photo upload capability
 8. Build a community by listing acrive users on the Community page.
 
-Heroku Production page: https://enigmatic-wildwood-68995.herokuapp.com/
+## Important Notes:
+* To push the Ruby App subfolder devmatch_app to Heroku root directory use the following terminal git command: `git subtree push --prefix (path from git root directory) heroku master`. Need to run this command from git root directory.
