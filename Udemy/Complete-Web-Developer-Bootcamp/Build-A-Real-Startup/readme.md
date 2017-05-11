@@ -1,4 +1,4 @@
-# Build a Real Startup - Saas Project Application
+# Build a Real Startup - Saas Ruby Project Application
 
 ## Dev Match - Rails Subscription Site
 
@@ -18,3 +18,5 @@
 6. Use Strijpe API to handle payment processing
 7. Create user profiles that can be edited, along with photo upload capability
 8. Build a community by listing acrive users on the Community page.
+
+Heroku Production page: https://enigmatic-wildwood-68995.herokuapp.com/
