@@ -36,7 +36,7 @@ A list of online courses and other resources helping me in becoming a Front-End 
   * Git setup
   * Heroku setup
   * Creating Site Pages
-  * Adding Bootstrap library gem
+  * Adding Bootstrap library gem & importing
   * 
 
 ### CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017 | Exam 200-901 passed 14/4/2017 | Score: 758/900
