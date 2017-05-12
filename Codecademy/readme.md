@@ -34,7 +34,7 @@
 3. Dynamic HTML
 4. jQuery Events
 5. jQuery Effects
-6. [jQuery Projects](/Codecademy/jQuery-Ptojects/)
+6. [jQuery Projects](/Codecademy/jQuery-Projects/)
 7. jQuery Final Project
 
 
