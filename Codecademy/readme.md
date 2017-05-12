@@ -45,12 +45,16 @@
 4. Git Teamwork
 
 
-### Ruby ==> 42%
+### Ruby ==> 52%
 #### See completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (May need a Cloud9 account to view)
 1. Introduction to Ruby
 2. Control Flow in Ruby
 3. Looping with Ruby
 4. Arrays and Hashes
+5. Methods, Blocks, and Sorting
+
+### Learn Responsive Design ==> In Progress
+1. Sizing Elements
 
 
 ### Learn the Command Line ==> 46%

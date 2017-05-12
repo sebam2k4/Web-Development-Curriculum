@@ -9,7 +9,8 @@ A list of online courses and other resources helping me in becoming a Front-End 
 * Learn Javascript ==> COMPLETED | 02/2017
 * Learn jQuery ==> COMPLETED | 06/05/2017
 * Learn Git ==> COMPLETED | 12/05/2017
-* Ruby ==> 42% In Progress
+* Ruby ==> 52% In Progress
+* Learn Responsive Design ==> 40%
 * Learn the Command Line ==> 46%
 * Javascript ==> 36%
 * Deploy a Website ==> 33%
