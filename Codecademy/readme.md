@@ -38,6 +38,13 @@
 7. jQuery Final Project
 
 
+### Learn Git ==> COMPLETED | 12/05/2017
+1. Basic Git Workflow
+2. How to Backtrack in Git
+3. Git Branching
+4. Git Teamwork
+
+
 ### Ruby ==> 42%
 #### See completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (May need a Cloud9 account to view)
 1. Introduction to Ruby
@@ -55,10 +62,6 @@
 1. Introduction to JavaScript
 2. Functions
 3. 'For' Loops in JavaScript
-
-
-### Learn Git ==> 6%
-1. Basic Git Workflow
 
 
 ### Deploy a Website ==> 33%
