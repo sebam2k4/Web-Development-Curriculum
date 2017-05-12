@@ -1,6 +1,7 @@
 # Build a Real Startup - Saas Ruby Project Application
 
-## Dev Match - Rails Subscription Site
+## Dev Match - Sass Ruby Application
+#### A membership site where enterpreneurs can meet developers
 * Heroku Production page: [Link](https://enigmatic-wildwood-68995.herokuapp.com/)
 * Cloud9 source files: [Link](https://ide.c9.io/sebam2k4/devmatch_saas)
 
