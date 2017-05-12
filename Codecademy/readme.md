@@ -34,7 +34,7 @@
 3. Dynamic HTML
 4. jQuery Events
 5. jQuery Effects
-6. jQuery Projects 
+6. [jQuery Projects](/jQuery-Ptojects/)
 7. jQuery Final Project
 
 
@@ -45,6 +45,12 @@
 4. Git Teamwork
 
 
+### Learn Responsive Design ==> COMPLETED | 12/05/2017
+1. Sizing Elements
+2. Media Queries
+3. [Tsunami Coffee Project](/Responsive-Design-Projects/)
+
+
 ### Ruby ==> 52%
 #### See completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (May need a Cloud9 account to view)
 1. Introduction to Ruby
@@ -52,9 +58,6 @@
 3. Looping with Ruby
 4. Arrays and Hashes
 5. Methods, Blocks, and Sorting
-
-### Learn Responsive Design ==> In Progress
-1. Sizing Elements
 
 
 ### Learn the Command Line ==> 46%
