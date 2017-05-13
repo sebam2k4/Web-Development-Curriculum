@@ -74,3 +74,5 @@
 ### Deploy a Website ==> 33%
 1. Create a Static Website Using Jekyll
 
+### Make an Interacrive Website ==> 18%
+1. Your First Program (jQuery)

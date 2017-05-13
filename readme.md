@@ -14,6 +14,7 @@ A list of online courses and other resources helping me in becoming a Front-End 
 * Learn the Command Line ==> 46%
 * Javascript ==> 36%
 * Deploy a Website ==> 33%
+* Make an Interactive Website ==> 18%
 
 
 ## Edx.org
