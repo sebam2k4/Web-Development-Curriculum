@@ -4,17 +4,17 @@
             
             <%= form_for @contact do |f| %>
                 <div class="form-group">
-                    <%= f.label :name %>
+                    <%= f.label :name %><span><small> *required</small></span>
                     <%= f.text_field :name, class: 'form-control' %>
                 </div>
                 
                 <div class="form-group">
-                    <%= f.label :email %>
+                    <%= f.label :email %><span><small> *required</small></span>
                     <%= f.text_field :email, class: 'form-control' %>
                 </div>
                 
                 <div class="form-group">
-                    <%= f.label :comments %>
+                    <%= f.label :comments %><span><small> *required</small></span>
                     <%= f.text_area :comments, class: 'form-control' %>
                 </div>
                 <%= f.submit 'Submit', class: 'btn btn-default' %>
