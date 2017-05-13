@@ -41,9 +41,14 @@ A list of online courses and other resources helping me in becoming a Front-End 
   * Adding Bootstrap Sass library gem & importing
   * Adding Font Awesome Saas gem & importing
   * Rails Asset Pipeline
-* Adding Messaging ==> In progress
+* Adding Messaging ==> COMPLETED 13/05/2017
   * Contacts Database, Controller, and Routes
   * Form Validations
+  * HTTP Verbs, REST, and Rails
+  * Rails Action Mailer
+  * Controller Triggers Mailer
+  * Sendgrid setup for Heroku
+* User Membership and Taking Payments with Subscriptions ==> In progress
 
 ### CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017 | Exam 200-901 passed 14/4/2017 | Score: 758/900
 * Path of the PC Tech
