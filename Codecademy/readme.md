@@ -51,6 +51,14 @@
 3. [Tsunami Coffee Project](/Codecademy/Responsive-Design-Projects/)
 
 
+### Make an Interacrive Website ==> COMPLETED | 14/05/2017
+1. Your First Program (jQuery)
+2. Javascript
+3. Events
+4. DOM Manipulation
+5. Effects
+
+
 ### Ruby ==> 52%
 #### See completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (May need a Cloud9 account to view)
 1. Introduction to Ruby
@@ -73,6 +81,3 @@
 
 ### Deploy a Website ==> 33%
 1. Create a Static Website Using Jekyll
-
-### Make an Interacrive Website ==> 18%
-1. Your First Program (jQuery)
