@@ -34,7 +34,7 @@
 3. Dynamic HTML
 4. jQuery Events
 5. jQuery Effects
-6. jQuery Projects 
+6. [jQuery Projects](/Codecademy/jQuery-Projects/)
 7. jQuery Final Project
 
 
@@ -45,12 +45,19 @@
 4. Git Teamwork
 
 
-### Ruby ==> 42%
+### Learn Responsive Design ==> COMPLETED | 12/05/2017
+1. Sizing Elements
+2. Media Queries
+3. [Tsunami Coffee Project](/Codecademy/Responsive-Design-Projects/)
+
+
+### Ruby ==> 52%
 #### See completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (May need a Cloud9 account to view)
 1. Introduction to Ruby
 2. Control Flow in Ruby
 3. Looping with Ruby
 4. Arrays and Hashes
+5. Methods, Blocks, and Sorting
 
 
 ### Learn the Command Line ==> 46%
@@ -67,3 +74,5 @@
 ### Deploy a Website ==> 33%
 1. Create a Static Website Using Jekyll
 
+### Make an Interacrive Website ==> 18%
+1. Your First Program (jQuery)

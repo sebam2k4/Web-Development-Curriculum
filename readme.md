@@ -9,10 +9,12 @@ A list of online courses and other resources helping me in becoming a Front-End 
 * Learn Javascript ==> COMPLETED | 02/2017
 * Learn jQuery ==> COMPLETED | 06/05/2017
 * Learn Git ==> COMPLETED | 12/05/2017
-* Ruby ==> 42% In Progress
+* Learn Responsive Design ==> COMPLETED | 12/05/2017
+* Ruby ==> 52% In Progress
 * Learn the Command Line ==> 46%
 * Javascript ==> 36%
 * Deploy a Website ==> 33%
+* Make an Interactive Website ==> 18%
 
 
 ## Edx.org
@@ -40,6 +42,8 @@ A list of online courses and other resources helping me in becoming a Front-End 
   * Adding Font Awesome Saas gem & importing
   * Rails Asset Pipeline
 * Adding Messaging ==> In progress
+  * Contacts Database, Controller, and Routes
+  * Form Validations
 
 ### CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017 | Exam 200-901 passed 14/4/2017 | Score: 758/900
 * Path of the PC Tech
