@@ -52,6 +52,7 @@ A list of online courses and other resources helping me in becoming a Front-End 
   * Adding Devise gem and new Users database
   * Associations for Plans and Users
   * Adding Stripe and Figaro
+    * Stripe intergration not working - Need to follow the updated course on: http://upskillcourses.com
 
 ### CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017 | Exam 200-901 passed 14/4/2017 | Score: 758/900
 * Path of the PC Tech
