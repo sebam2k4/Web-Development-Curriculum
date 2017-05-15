@@ -1,6 +1,5 @@
 # Codecademy | [Visit my Profile](https://www.codecademy.com/sebam2k4)
 
-
 ### Learn HTML & CSS Part 1 ==> COMPLETED | 03/2017
 1. HTML Fundamentals
 2. HTML Content
@@ -59,13 +58,15 @@
 5. Effects
 
 
-### Ruby ==> 52%
+### Ruby ==> 63%
 #### See completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (May need a Cloud9 account to view)
 1. Introduction to Ruby
 2. Control Flow in Ruby
 3. Looping with Ruby
 4. Arrays and Hashes
 5. Methods, Blocks, and Sorting
+6. Hashes and Symbols
+7. Refactoring => In progress
 
 
 ### Learn the Command Line ==> 46%
