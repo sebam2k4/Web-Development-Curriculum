@@ -1,5 +1,7 @@
 # Build a Real Startup - Saas Ruby Project Application
 
+Start over with the updated course on: http://upskillcourses.com
+
 ## Dev Match - Sass Ruby Application
 #### A membership site where enterpreneurs can meet developers
 * Heroku Production page: [Link](https://enigmatic-wildwood-68995.herokuapp.com/)
