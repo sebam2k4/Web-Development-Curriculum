@@ -69,6 +69,11 @@
 7. Refactoring => In progress
 
 
+### Learn Ruby on Rails ==> 25%
+#### See completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (May need a Cloud9 account to view)
+1. Gettinng Started
+
+
 ### Learn the Command Line ==> 46%
 1. Navigating the File System
 2. Viewing and Changing the File System
