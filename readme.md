@@ -38,7 +38,7 @@ A list of online courses and other resources helping me in becoming a Front-End 
   * Git setup
   * Heroku setup
 
-### CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017 | Exam 200-901 passed 14/4/2017 | Score: 758/900
+### CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017
 * Path of the PC Tech
 * The Visible Computer
 * Microprocessors
@@ -59,12 +59,37 @@ A list of online courses and other resources helping me in becoming a Front-End 
 * Understanding Mobile Devices
 * Printers and Multifunction Devices
 
-## wesbos.com
+### CompTIA A+ Certification 902. The Total Course | Mike Meyers ==> COMPLETED | 28/04/2017
+* Path of the PC Tech
+* Operational Procedures
+* The Visible Computer
+* RAM
+* Power Supplies
+* Implementing Hard Drives
+* Essential Peripherals
+* Building a PC
+* Windows Under the Hood
+* Users, Groups, and Permissions
+* Maintaining and Optimizing Operating Systems
+* Working with the Command Line Interface
+* Troubleshooting Operating Systems
+* Virtualization
+* The Internet
+* Understanding Mobile Devices
+* Care and Feeding of Mobile Devices
+* Printers and Multifunction Devices
+* Securing Computers
+
 
 ## eCollege.ie
- * CompTIA A+ 900 Series ==> In Progress
- 
- 
+
+### CompTIA A+ 900 Series ==> In Progress
+* 902 Section 1 of 5 - Windows Operating Systems
+
+
+## wesbos.com
+
+
 ## Youtube Videos/Channels
 
 * [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
@@ -73,3 +98,9 @@ A list of online courses and other resources helping me in becoming a Front-End 
 ## Books
 
 * HTML & CSS: Design and Bulid Websites | 2011 | John Duckett
+
+
+# Certification
+
+## CompTIA A+ ==> In Progress
+* Exam 200-901 passed 14/4/2017 | Score: 758/900
