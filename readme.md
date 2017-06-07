@@ -86,6 +86,7 @@ A list of online courses and other resources helping me in becoming a Front-End 
 ### CompTIA A+ 900 Series ==> In Progress
 * 902 Section 1 of 5 - Windows Operating Systems
 * 902 Section 2 of 5 - Other Operating Systems & Technologies
+* 902 Section 3 of 5 - Security
 
 
 ## wesbos.com
