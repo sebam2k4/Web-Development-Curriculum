@@ -87,6 +87,9 @@ A list of online courses and other resources helping me in becoming a Front-End 
 * 902 Section 1 of 5 - Windows Operating Systems
 * 902 Section 2 of 5 - Other Operating Systems & Technologies
 * 902 Section 3 of 5 - Security
+* 902 Section 4 of 5 - Software Troubleshooting
+* 902 Section 5 of 5 - Operational Procedures
+* Test Preparation A+ 220-902
 
 
 ## wesbos.com
