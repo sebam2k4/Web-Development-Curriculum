@@ -34,11 +34,11 @@ A list of online courses and other resources helping me in becoming a Front-End 
 * Cascading Style Sheets Are Awesome ==> COMPLETED | 02/05/2017
 * Javascript & jQuery ==> COMPLETED | 04/05/2017
 * The Ruby Language ==> COMMPLETED | 08/05/2017
-* Build a Real Startup (Saas Project) ==> In Progress
-  * Git setup
+* Build a Real Startup (Saas Project) ([continued from upskillcourses.com](http://upskillcourses.com))==> In Progress
   * Cloud9 setup
-  *
-  * Heroku setup
+  * Install Ruby and Rails with RVM
+  * Git setup and Github linking
+
 
 ### CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017
 * Path of the PC Tech
