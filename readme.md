@@ -31,11 +31,13 @@ A list of online courses and other resources helping me in becoming a Front-End 
 * Begin Phase I: Become a Full-Stack Developer - Introduction & Getting Set Up ==> COMPLETED | 01/04/2017
 * Rails Deep Dive: Build A Blog ==> COMPLETED | 01/04/2017
 * HTML & Launch A Website ==> COMPLETED | 02/054/2017
-* Cascading Style Sheets Are Awesome =>= COMPLETED | 02/05/2017
+* Cascading Style Sheets Are Awesome ==> COMPLETED | 02/05/2017
 * Javascript & jQuery ==> COMPLETED | 04/05/2017
 * The Ruby Language ==> COMMPLETED | 08/05/2017
-* Build a Real Startup ==> In Progress
+* Build a Real Startup (Saas Project) ==> In Progress
   * Git setup
+  * Cloud9 setup
+  *
   * Heroku setup
 
 ### CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017
