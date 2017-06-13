@@ -39,6 +39,7 @@ A list of online courses and other resources helping me in becoming a Front-End 
   * Cloud9 setup
   * Install Ruby and Rails with RVM
   * Git setup and Github linking
+  * Gemfile
 
 
 ### CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017
