@@ -36,16 +36,25 @@ A list of online courses and other resources helping me in becoming a Front-End 
 * Cascading Style Sheets Are Awesome ==> COMPLETED | 02/05/2017
 * Javascript & jQuery ==> COMPLETED | 04/05/2017
 * The Ruby Language ==> COMMPLETED | 08/05/2017
-* [Build a Real Startup Saas Project](https://github.com/sebam2k4/Rails_Devmatch_saas) (Course continued from upskillcourses.com) ==> In Progress
-  * Initial setup and web pages
+* [Ruby on Rails - Build a Real Startup Saas Project](https://github.com/sebam2k4/Rails_Devmatch_saas) (Course continued from upskillcourses.com) ==> In Progress
+  * Initial setup and pages layout
     * Cloud9 setup
     * Install Ruby and Rails with RVM
     * Git setup and Github linking
     * Gemfile and gem version setup
-    * Create Home and About pages
+    * Create Home Page
+    * Add Pages view, controller, & routes
     * Add Google Fonts
+    * Add About Page
     * Add Bootstrap gem
+    * Page and nav layout
+    * Add Font-awesome gem
+    * Add nav links with embeded ruby tags <%= %>
+    * rails route & link prefixes
+    * Add bootstrap Javascript
+    * Asset Pipeline
   * Forms, Databases, and Sending Emails
+    * Add Contact Form view, controller, & route
 
 
 ### CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017
