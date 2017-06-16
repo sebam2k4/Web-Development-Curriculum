@@ -33,7 +33,7 @@
 3. Dynamic HTML
 4. jQuery Events
 5. jQuery Effects
-6. [jQuery Projects](/Codecademy/jQuery-Projects/ "jQuery Projects repository")
+6. [jQuery Projects](/Codecademy/jQuery-Projects/ "View jQuery Projects")
 7. jQuery Final Project
 
 
@@ -47,7 +47,7 @@
 ### Learn Responsive Design ==> COMPLETED | 12/05/2017
 1. Sizing Elements
 2. Media Queries
-3. [Tsunami Coffee Project](/Codecademy/Responsive-Design-Projects/ "Tsunami Coffee Project repository")
+3. [Tsunami Coffee Project](/Codecademy/Responsive-Design-Projects/ "View Tsunami Coffee Project")
 
 
 ### Make an Interacrive Website ==> COMPLETED | 14/05/2017
