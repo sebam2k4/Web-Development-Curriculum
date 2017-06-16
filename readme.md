@@ -2,7 +2,7 @@
 
 A list of online courses and other resources helping me in becoming a Front-End Web Developer!
 
-## [Codecademy](/Codecademy/)
+## [Codecademy](/Codecademy/ "Go to Codecademy courses repository")
 
 * Learn HTML & CSS Part 1 ==> COMPLETED | 03/2017
 * Make a Website ==> COMPLETED | 03/2017
@@ -36,7 +36,7 @@ A list of online courses and other resources helping me in becoming a Front-End 
 * Cascading Style Sheets Are Awesome ==> COMPLETED | 02/05/2017
 * Javascript & jQuery ==> COMPLETED | 04/05/2017
 * The Ruby Language ==> COMMPLETED | 08/05/2017
-* [Ruby on Rails - Build a Real Startup Saas Project](https://github.com/sebam2k4/Rails_Devmatch_saas) (Course continued from upskillcourses.com)
+* [Ruby on Rails - Build a Real Startup Saas Project](https://github.com/sebam2k4/Rails_Devmatch_saas "Go to Rails Saas Project repository") (Course continued from upskillcourses.com)
   * Initial setup and pages layout ==> COMPLETED | 16/06/2017
     * Cloud9 setup
     * Install Ruby and Rails with RVM
@@ -116,7 +116,7 @@ A list of online courses and other resources helping me in becoming a Front-End 
 
 ## Youtube Videos/Channels
 
-* [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+* [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ "Visit DevTips YouTube channel")
 
 
 ## Books
