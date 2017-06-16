@@ -29,6 +29,7 @@ A list of online courses and other resources helping me in becoming a Front-End 
 ## Udemy
 
 ### The Complete Web Developer Bootcamp - Beginner to Expert
+
 * Begin Phase I: Become a Full-Stack Developer - Introduction & Getting Set Up ==> COMPLETED | 01/04/2017
 * Rails Deep Dive: Build A Blog ==> COMPLETED | 01/04/2017
 * HTML & Launch A Website ==> COMPLETED | 02/054/2017
@@ -36,10 +37,15 @@ A list of online courses and other resources helping me in becoming a Front-End 
 * Javascript & jQuery ==> COMPLETED | 04/05/2017
 * The Ruby Language ==> COMMPLETED | 08/05/2017
 * [Build a Real Startup Saas Project](https://github.com/sebam2k4/Rails_Devmatch_saas) (Course continued from upskillcourses.com) ==> In Progress
-  * Cloud9 setup
-  * Install Ruby and Rails with RVM
-  * Git setup and Github linking
-  * Gemfile
+  * Initial setup and web pages
+    * Cloud9 setup
+    * Install Ruby and Rails with RVM
+    * Git setup and Github linking
+    * Gemfile and gem version setup
+    * Create Home and About pages
+    * Add Google Fonts
+    * Add Bootstrap gem
+  * Forms, Databases, and Sending Emails
 
 
 ### CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017
