@@ -56,6 +56,10 @@ A list of online courses and other resources helping me in becoming a Front-End 
   * Forms, Databases, and Sending Emails  ==> IN PROGRESS
     * Add Contact Form view, controller, & route
 
+### The Complete Web Developer Course 2.0
+  * HTML5 ==> COMPLETED | 17/06/2017
+  * CSS3 ==> IN PROGRESS
+
 
 ### CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017
 * Path of the PC Tech
