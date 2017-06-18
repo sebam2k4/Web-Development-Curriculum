@@ -71,7 +71,7 @@
 * Understanding Mobile Devices
 * Printers and Multifunction Devices
 
-### CompTIA A+ Certification 902. The Total Course | Mike Meyers
+## CompTIA A+ Certification 902. The Total Course | Mike Meyers
 #### COMPLETED | 28/04/2017
 * Path of the PC Tech
 * Operational Procedures
