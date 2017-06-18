@@ -43,9 +43,9 @@ A list of online courses and other resources helping me in becoming a Front-End 
     * Git setup and Github linking
     * Gemfile and gem version setup
     * Create Home Page
-    * Add Pages view, controller, & routes
+    * Create Pages view, controller, & routes
     * Add Google Fonts
-    * Add About Page
+    * Create About Page
     * Add Bootstrap gem
     * Page and nav layout
     * Add Font-awesome gem
@@ -53,8 +53,23 @@ A list of online courses and other resources helping me in becoming a Front-End 
     * rails route & link prefixes
     * Add bootstrap Javascript
     * Asset Pipeline
-  * Forms, Databases, and Sending Emails  ==> IN PROGRESS
-    * Add Contact Form view, controller, & route
+  * Forms, Databases, and Sending Emails  ==> COMPLETED | 18/06/2017
+    * Create Contacts view, controller, & route
+    * Contact Form Page layout
+    * Create contacts data table
+    * Add Hirb gem
+    * Form validation
+    * Add flash error and success messages
+    * Style flash messages
+    * Add custom URLs
+    * Cleaning up the routes
+    * Create Contact Mailer File
+    * Create Mailer view
+    * Heroku setup
+    * First Heroku server deploy - [Live Production Site](https://radiant-castle-37191.herokuapp.com/contact-us)
+    * Sending email with Mailgun
+  * Use Memberships and Accepting Subscription payments
+    * (Not available at this moment - Course is being updated)
 
 ### The Complete Web Developer Course 2.0
   * HTML5 ==> COMPLETED | 17/06/2017
