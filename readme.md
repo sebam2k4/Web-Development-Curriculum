@@ -1,6 +1,9 @@
-# Personal Web Development Curriculum
+# Personal Full Stack Web Development Course Progression List
 
-A list of online courses and other resources helping me in becoming a Front-End Web Developer!
+A list of online courses and other resources helping me in becoming a Full-Stack Web Developer.
+
+You will also find links to some completed projects.
+
 
 ## [Codecademy](/Codecademy/ "View projects and detailed info")
 
