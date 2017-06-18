@@ -2,7 +2,7 @@
 
 A list of online courses and other resources helping me in becoming a Front-End Web Developer!
 
-## [Codecademy](/Codecademy/ "View projects and more details")
+## [Codecademy](/codecademy/ "View projects and detailed info")
 
 * Learn HTML & CSS Part 1 ==> COMPLETED | 03/2017
 * Make a Website ==> COMPLETED | 03/2017
@@ -26,111 +26,20 @@ A list of online courses and other resources helping me in becoming a Front-End 
 * CSS Introduction | W3Cx-CSS.0x ==> COMPLETED | 12/2016
 
 
-## Udemy
+## [Udemy](/udemy/ "View projects and detailed info")
 
-### The Complete Web Developer Bootcamp - Beginner to Expert
-
-* Begin Phase I: Become a Full-Stack Developer - Introduction & Getting Set Up ==> COMPLETED | 01/05/2017
-* Rails Deep Dive: Build A Blog ==> COMPLETED | 01/05/2017
-* HTML & Launch A Website ==> COMPLETED | 02/05/2017
-* Cascading Style Sheets Are Awesome ==> COMPLETED | 02/05/2017
-* Javascript & jQuery ==> COMPLETED | 04/05/2017
-* The Ruby Language ==> COMMPLETED | 08/05/2017
-* [Ruby on Rails - Build a Real Startup Saas Project](https://github.com/sebam2k4/Rails_Devmatch_saas "Go to Rails Saas Project repository") (Course continued from upskillcourses.com)
-  * Initial setup and pages layout ==> COMPLETED | 16/06/2017
-    * Cloud9 setup
-    * Install Ruby and Rails with RVM
-    * Git setup and Github linking
-    * Gemfile and gem version setup
-    * Create Home Page
-    * Create Pages view, controller, & routes
-    * Add Google Fonts
-    * Create About Page
-    * Add Bootstrap gem
-    * Page and nav layout
-    * Add Font-awesome gem
-    * Add nav links with embeded ruby tags <%= %>
-    * rails route & link prefixes
-    * Add bootstrap Javascript
-    * Asset Pipeline
-  * Forms, Databases, and Sending Emails  ==> COMPLETED | 18/06/2017
-    * Create Contacts view, controller, & route
-    * Contact Form Page layout
-    * Create contacts data table
-    * Add Hirb gem
-    * Form validation
-    * Add flash error and success messages
-    * Style flash messages
-    * Add custom URLs
-    * Cleaning up the routes
-    * Create Contact Mailer File
-    * Create Mailer view
-    * Heroku setup
-    * First Heroku server deploy - [Live Production Site](https://radiant-castle-37191.herokuapp.com/)
-    * Sending email with Mailgun
-  * Use Memberships and Accepting Subscription payments
-    * (Not available at this moment - Course is being updated)
-
-### The Complete Web Developer Course 2.0
-  * HTML5 ==> COMPLETED | 17/06/2017
-  * CSS3 ==> IN PROGRESS
+* The Complete Web Developer Bootcamp - Beginner to Expert ==> IN PROGRESS
+* The Complete Web Developer Course 2.0 ==> IN PROGRESS
+* CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017
+* CompTIA A+ Certification 902. The Total Course | Mike Meyers ==> COMPLETED | 28/04/2017
 
 
-### CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017
-* Path of the PC Tech
-* The Visible Computer
-* Microprocessors
-* RAM
-* BIOS
-* Motherboards
-* Power Suppolies
-* Hard Drive Technologies
-* Implementing Hard Drives
-* Essential Peripherals
-* Building a PC
-* Display Technologies
-* Essentials of Networking
-* Local Area Networking
-* Wireless Networking
-* The Internet
-* Portable Computing
-* Understanding Mobile Devices
-* Printers and Multifunction Devices
+## [eCollege.ie](/eCollege/ "View detailed info")
 
-### CompTIA A+ Certification 902. The Total Course | Mike Meyers ==> COMPLETED | 28/04/2017
-* Path of the PC Tech
-* Operational Procedures
-* The Visible Computer
-* RAM
-* Power Supplies
-* Implementing Hard Drives
-* Essential Peripherals
-* Building a PC
-* Windows Under the Hood
-* Users, Groups, and Permissions
-* Maintaining and Optimizing Operating Systems
-* Working with the Command Line Interface
-* Troubleshooting Operating Systems
-* Virtualization
-* The Internet
-* Understanding Mobile Devices
-* Care and Feeding of Mobile Devices
-* Printers and Multifunction Devices
-* Securing Computers
+* CompTIA A+ 900 Series ==> COMPLETED | 9/06/2017
 
 
-## eCollege.ie
-
-### CompTIA A+ 900 Series ==> COMPLETED | 9/06/2017
-* 902 Section 1 of 5 - Windows Operating Systems
-* 902 Section 2 of 5 - Other Operating Systems & Technologies
-* 902 Section 3 of 5 - Security
-* 902 Section 4 of 5 - Software Troubleshooting
-* 902 Section 5 of 5 - Operational Procedures
-* Test Preparation A+ 220-902
-
-
-## wesbos.com
+## Wesbos.com
 
 
 ## Youtube Videos/Channels
