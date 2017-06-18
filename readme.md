@@ -66,7 +66,7 @@ A list of online courses and other resources helping me in becoming a Front-End 
     * Create Contact Mailer File
     * Create Mailer view
     * Heroku setup
-    * First Heroku server deploy - [Live Production Site](https://radiant-castle-37191.herokuapp.com/contact-us)
+    * First Heroku server deploy - [Live Production Site](https://radiant-castle-37191.herokuapp.com/)
     * Sending email with Mailgun
   * Use Memberships and Accepting Subscription payments
     * (Not available at this moment - Course is being updated)
