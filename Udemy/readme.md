@@ -46,7 +46,8 @@
 ## The Complete Web Developer Course 2.0
 #### IN PROGRESS
   * HTML5 ==> COMPLETED | 17/06/2017
-  * CSS3
+  * CSS3 ==> COMPLETED | 18/06/2017
+  * Javascript ==> IN PROGRESS
 
 
 ## CompTIA A+ Certification 901. The Total Course | Mike Meyers
