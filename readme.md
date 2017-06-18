@@ -2,7 +2,7 @@
 
 A list of online courses and other resources helping me in becoming a Front-End Web Developer!
 
-## [Codecademy](/codecademy/ "View projects and detailed info")
+## [Codecademy](/Codecademy/ "View projects and detailed info")
 
 * Learn HTML & CSS Part 1 ==> COMPLETED | 03/2017
 * Make a Website ==> COMPLETED | 03/2017
@@ -26,7 +26,7 @@ A list of online courses and other resources helping me in becoming a Front-End 
 * CSS Introduction | W3Cx-CSS.0x ==> COMPLETED | 12/2016
 
 
-## [Udemy](/udemy/ "View projects and detailed info")
+## [Udemy](/Udemy/ "View projects and detailed info")
 
 * The Complete Web Developer Bootcamp - Beginner to Expert ==> IN PROGRESS
 * The Complete Web Developer Course 2.0 ==> IN PROGRESS
