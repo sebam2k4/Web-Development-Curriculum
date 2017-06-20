@@ -31,8 +31,8 @@ You will also find links to some completed projects.
 
 ## [Udemy](/Udemy/ "View projects and detailed info")
 
-* The Complete Web Developer Bootcamp - Beginner to Expert ==> IN PROGRESS
-* The Complete Web Developer Course 2.0 ==> IN PROGRESS
+* The Complete Web Developer Bootcamp - Beginner to Expert | Robeen Dey ==> IN PROGRESS
+* The Complete Web Developer Course 2.0 | Rob Percival ==> IN PROGRESS
 * CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017
 * CompTIA A+ Certification 902. The Total Course | Mike Meyers ==> COMPLETED | 28/04/2017
 

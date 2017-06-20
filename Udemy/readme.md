@@ -1,6 +1,6 @@
 # Udemy | [Visit my profile](https://www.udemy.com/user/sebastian-kulig/)
 
-## The Complete Web Developer Bootcamp - Beginner to Expert
+## The Complete Web Developer Bootcamp - Beginner to Expert | Robeen Dey
 #### ON HOLD - COURSE BEING UPDATED
 * Begin Phase I: Become a Full-Stack Developer - Introduction & Getting Set Up ==> COMPLETED | 01/05/2017
 * Rails Deep Dive: Build A Blog ==> COMPLETED | 01/05/2017
@@ -43,7 +43,7 @@
   * Use Memberships and Accepting Subscription payments
     * (Not available at this moment - Course is being updated)
 
-## The Complete Web Developer Course 2.0
+## The Complete Web Developer Course 2.0 | Rob Percival
 #### IN PROGRESS
   * HTML5 ==> COMPLETED | 17/06/2017
   * CSS3 ==> COMPLETED | 18/06/2017
