@@ -73,7 +73,7 @@
 
 
 ## Ruby
-#### IN PROGRESS | 63%
+#### IN PROGRESS | 73%
 #### View and run completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (Requires a Cloud9 account to view)
 1. Introduction to Ruby
 2. Control Flow in Ruby
@@ -81,7 +81,8 @@
 4. Arrays and Hashes
 5. Methods, Blocks, and Sorting
 6. Hashes and Symbols
-7. Refactoring => In progress
+7. Refactoring
+8. Blocks, Procs, and Lambdas => In progress
 
 
 ## Learn Ruby on Rails

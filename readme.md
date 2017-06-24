@@ -15,7 +15,7 @@ You will also find links to some completed projects.
 * Learn Responsive Design ==> COMPLETED | 12/05/2017
 * Make an Interactive Website ==> COMPLETED | 14/05/2017
 * Deploy a Website ==> COMPLETED | 11/06/2017
-* Ruby ==> 63%
+* Ruby ==> 73%
 * Learn Ruby on Rails ==> 25%
 * Learn the Command Line ==> 46%
 * Javascript ==> 36%
