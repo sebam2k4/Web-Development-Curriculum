@@ -86,10 +86,8 @@
 
 To run any of the ruby exercise or project files on Cloud9, use the terminal to change directory to codecademy/ruby/ follower by a lesson number (1-10). Then type 'ruby filename.rb' to run the ruby code. For example:
 
----
-cd codecademy/ruby/5
-ruby project_ordering_your_library.rb
----
+    cd codecademy/ruby/5
+    ruby project_ordering_your_library.rb
 
 
 ## Learn Ruby on Rails
