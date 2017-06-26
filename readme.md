@@ -60,3 +60,9 @@ You will also find links to some completed projects.
 ### CompTIA A+ Certified | 22/06/2017
 * Exam 200-901 passed 14/4/2017 | Score: 758/900
 * Exam 200-902 passed 22/06/2017 | Score: 779/900
+
+
+## To Do for this readme.md (note to self)
+* Copy ruby project code to Codecademy
+* Create readme for each project containing an image, link to live project, and optional description
+* Organize projects and links in more cohesive manner.
