@@ -74,7 +74,7 @@
 
 ## Ruby
 #### IN PROGRESS | 78%
-#### View and run completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (Requires a Cloud9 account to view)
+#### View and run completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice){:target="_blank"} (Requires a Cloud9 account to view)
 1. Introduction to Ruby
 2. Control Flow in Ruby
 3. Looping with Ruby
