@@ -77,16 +77,11 @@
 #### View and run completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (Requires a Cloud9 account to view)
 1. Introduction to Ruby
 2. Control Flow in Ruby
-3. Looping with Ruby
-    * [Redacted Project](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Redacted ruby project")
-4. Arrays and Hashes
-    * [Histogram Project](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Histogram ruby project")
-5. Methods, Blocks, and Sorting
-    * [Ordering Your Library Project](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Ordering Your Library ruby project")
-6. Hashes and Symbols
-    * [Night at the Movies Project](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Night at the Movies ruby projects")
-7. Refactoring
-    * [Refactor Factory Project](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Refactor Factory ruby project")
+3. Looping with Ruby | [Redacted Project](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Redacted ruby project")
+4. Arrays and Hashes | [Histogram Project](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Histogram ruby project")
+5. Methods, Blocks, and Sorting | [Ordering Your Library Project](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Ordering Your Library ruby project")
+6. Hashes and Symbols | [Night at the Movies Project](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Night at the Movies ruby projects")
+7. Refactoring | [Refactor Factory Project](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Refactor Factory ruby project")
 8. Blocks, Procs, and Lambdas
 9. Object-Oriented Programming, Part 1 ==> IN PROGRESS
 
