@@ -7,6 +7,8 @@
 7. Refactoring - [Refactor Factory Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Refactor Factory ruby project")
 9. Object-Oriented Programming, Part 1 - [Virtual Computer Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Virtual Computer ruby project")
 
+### How to run the ruby code on Cloud9:
+
 To run any of the ruby exercise or project files on Cloud9, use the terminal to change directory to codecademy/ruby/ followed by the lesson number (1-10). Then type 'ruby filename.rb' to run the ruby code. For example:
 
     cd codecademy/ruby/5
