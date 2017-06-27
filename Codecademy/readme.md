@@ -77,13 +77,13 @@
 #### View and run completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (Requires a Cloud9 account to view)
 1. Introduction to Ruby
 2. Control Flow in Ruby
-3. Looping with Ruby - [Redacted Ruby Project](Codecademy/Ruby/ "view Ruby Projects")
-4. Arrays and Hashes - [Histogram Project](Codecademy/Ruby/ "view Ruby Projects")
+3. Looping with Ruby - [Redacted Ruby Project](/Codecademy/Ruby/ "view Ruby Projects")
+4. Arrays and Hashes - [Histogram Project](/Codecademy/Ruby/ "view Ruby Projects")
 5. Methods, Blocks, and Sorting - [Ordering Your Library Project](Codecademy/Ruby/ "view Ruby Projects")
-6. Hashes and Symbols - [Night at the Movies Project](Codecademy/Ruby/ "view Ruby Projects")
-7. Refactoring - [Refactor Factory Project](Codecademy/Ruby/ "view Ruby Projects")
+6. Hashes and Symbols - [Night at the Movies Project](/Codecademy/Ruby/ "view Ruby Projects")
+7. Refactoring - [Refactor Factory Project](/Codecademy/Ruby/ "view Ruby Projects")
 8. Blocks, Procs, and Lambdas
-9. Object-Oriented Programming, Part 1 - [Virtual Computer Project](Codecademy/Ruby/ "view Ruby Projects")
+9. Object-Oriented Programming, Part 1 - [Virtual Computer Project](/Codecademy/Ruby/ "view Ruby Projects")
 10. Object-Oriented Programming, Part 2 ==> IN PROGRESS
 
 To run any of the ruby exercise or project files on Cloud9, use the terminal to change directory to codecademy/ruby/ followed by the lesson number (1-10). Then type 'ruby filename.rb' to run the ruby code. For example:
