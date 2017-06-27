@@ -86,11 +86,6 @@
 9. Object-Oriented Programming, Part 1 - [Virtual Computer Project](/Codecademy/Ruby/ "view Ruby Projects")
 10. Object-Oriented Programming, Part 2 ==> IN PROGRESS
 
-To run any of the ruby exercise or project files on Cloud9, use the terminal to change directory to codecademy/ruby/ followed by the lesson number (1-10). Then type 'ruby filename.rb' to run the ruby code. For example:
-
-    cd codecademy/ruby/5
-    ruby project_ordering_your_library.rb
-
 
 ## Learn Ruby on Rails
 #### IN PROGRESS | 25%
