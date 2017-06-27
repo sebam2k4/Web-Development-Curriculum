@@ -43,6 +43,7 @@ You will also find links to some completed projects.
 
 
 ## [Code Institute](/Code-Institute/ "View detailed info")
+* Full Stack Web Developer ==> IN PROGRESS
 
 ## Wesbos.com
 
