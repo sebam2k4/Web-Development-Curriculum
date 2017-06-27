@@ -73,7 +73,7 @@
 
 
 ## Ruby
-#### IN PROGRESS | 89%
+#### COMPLETED | 27/06/2017
 #### View and run completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (Requires a Cloud9 account to view)
 1. Introduction to Ruby
 2. Control Flow in Ruby
@@ -83,8 +83,9 @@
 6. Hashes and Symbols - [Night at the Movies Project](/Codecademy/Ruby/ "view Ruby Projects")
 7. Refactoring - [Refactor Factory Project](/Codecademy/Ruby/ "view Ruby Projects")
 8. Blocks, Procs, and Lambdas
-9. Object-Oriented Programming, Part 1 - [Virtual Computer Project](/Codecademy/Ruby/ "view Ruby Projects")
-10. Object-Oriented Programming, Part 2 ==> IN PROGRESS
+9. Object-Oriented Programming, Part 1 (Classes, Objects, & Inheritance) - [Virtual Computer Project](/Codecademy/Ruby/ "view Ruby Projects")
+10. Object-Oriented Programming, Part 2 (Info hiding, Modules, Mixins) - [Banking On Ruby Project](/Codecademy/Ruby/ "view Ruby Projects")
+11. Final Project ===> IN PROGRESS
 
 
 ## Learn Ruby on Rails
