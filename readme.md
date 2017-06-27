@@ -42,6 +42,8 @@ You will also find links to some completed projects.
 * CompTIA A+ 900 Series ==> COMPLETED | 9/06/2017
 
 
+## [Code Institute](/Code-Institute/ "View detailed info")
+
 ## Wesbos.com
 
 
@@ -58,8 +60,8 @@ You will also find links to some completed projects.
 ## Certification
 
 ### CompTIA A+ Certified | 22/06/2017
-* Exam 200-901 passed 14/4/2017 | Score: 758/900
-* Exam 200-902 passed 22/06/2017 | Score: 779/900
+* Exam 200-901 passed 14/4/2017
+* Exam 200-902 passed 22/06/2017
 
 
 ## To Do for this readme.md (note to self)
