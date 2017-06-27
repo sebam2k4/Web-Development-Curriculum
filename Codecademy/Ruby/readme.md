@@ -1,12 +1,12 @@
 ## Ruby Projects | Codecademy
 
-* 3. Looping with Ruby - [Redacted Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Redacted ruby project")
-* 4. Arrays and Hashes - [Histogram Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Histogram ruby project")
-* 5. Methods, Blocks, and Sorting - [Ordering Your Library Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Ordering Your Library ruby project")
-* 6. Hashes and Symbols - [Night at the Movies Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Night at the Movies ruby projects")
-* 7. Refactoring - [Refactor Factory Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Refactor Factory ruby project")
-* 9. Object-Oriented Programming, Part 1 - [Virtual Computer Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Virtual Computer ruby project")
-* 10. Object-Oriented Programming, Part 2 - [Banking on Ruby Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Virtual Computer ruby project")
+* 3 Looping with Ruby - [Redacted Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Redacted ruby project")
+* 4 Arrays and Hashes - [Histogram Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Histogram ruby project")
+* 5 Methods, Blocks, and Sorting - [Ordering Your Library Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Ordering Your Library ruby project")
+* 6 Hashes and Symbols - [Night at the Movies Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Night at the Movies ruby projects")
+* 7 Refactoring - [Refactor Factory Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Refactor Factory ruby project")
+* 9 Object-Oriented Programming, Part 1 - [Virtual Computer Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Virtual Computer ruby project")
+* 10 Object-Oriented Programming, Part 2 - [Banking on Ruby Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Virtual Computer ruby project")
 
 ### How to run the ruby code on Cloud9:
 
