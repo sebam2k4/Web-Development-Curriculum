@@ -15,7 +15,7 @@ You will also find links to some completed projects.
 * Learn Responsive Design ==> COMPLETED | 12/05/2017
 * Make an Interactive Website ==> COMPLETED | 14/05/2017
 * Deploy a Website ==> COMPLETED | 11/06/2017
-* Ruby ==> 63%
+* Ruby ==> COMPLETED | 27/06/2017
 * Learn Ruby on Rails ==> 25%
 * Learn the Command Line ==> 46%
 * Javascript ==> 36%
@@ -31,8 +31,8 @@ You will also find links to some completed projects.
 
 ## [Udemy](/Udemy/ "View projects and detailed info")
 
-* The Complete Web Developer Bootcamp - Beginner to Expert ==> IN PROGRESS
-* The Complete Web Developer Course 2.0 ==> IN PROGRESS
+* The Complete Web Developer Bootcamp - Beginner to Expert | Robeen Dey ==> IN PROGRESS
+* The Complete Web Developer Course 2.0 | Rob Percival ==> IN PROGRESS
 * CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017
 * CompTIA A+ Certification 902. The Total Course | Mike Meyers ==> COMPLETED | 28/04/2017
 
@@ -41,6 +41,9 @@ You will also find links to some completed projects.
 
 * CompTIA A+ 900 Series ==> COMPLETED | 9/06/2017
 
+
+## [Code Institute](/Code-Institute/ "View detailed info")
+* Full Stack Web Developer ==> IN PROGRESS
 
 ## Wesbos.com
 
@@ -55,7 +58,14 @@ You will also find links to some completed projects.
 * HTML & CSS: Design and Bulid Websites | 2011 | John Duckett
 
 
-# Certification
+## Certification
 
-## CompTIA A+ ==> In Progress
-* Exam 200-901 passed 14/4/2017 | Score: 758/900
+### CompTIA A+ Certified | 22/06/2017
+* Exam 200-901 passed 14/4/2017
+* Exam 200-902 passed 22/06/2017
+
+
+## To Do for this readme.md (note to self)
+* Copy ruby project code to Codecademy
+* Create readme for each project containing an image, link to live project, and optional description
+* Organize projects and links in more cohesive manner.
