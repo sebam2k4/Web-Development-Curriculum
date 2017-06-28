@@ -85,7 +85,7 @@
 8. Blocks, Procs, and Lambdas
 9. Object-Oriented Programming, Part 1 (Classes, Objects, & Inheritance) - [Virtual Computer Project](/Codecademy/Ruby/ "view Ruby Projects")
 10. Object-Oriented Programming, Part 2 (Info hiding, Modules, Mixins) - [Banking On Ruby Project](/Codecademy/Ruby/ "view Ruby Projects")
-11. Final Project ===> IN PROGRESS
+11. Final Project [To Do List Program](/Codecademy/Ruby/ "view Ruby Projects")
 
 
 ## Learn Ruby on Rails

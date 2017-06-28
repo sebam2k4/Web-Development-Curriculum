@@ -7,6 +7,7 @@
 * 7 Refactoring - [Refactor Factory Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Refactor Factory ruby project")
 * 9 Object-Oriented Programming, Part 1 - [Virtual Computer Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Virtual Computer ruby project")
 * 10 Object-Oriented Programming, Part 2 - [Banking on Ruby Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Virtual Computer ruby project")
+* Final Project - [To Do List Project on Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice "view Virtual Computer ruby project")
 
 ### How to run the ruby code on Cloud9:
 
