@@ -17,6 +17,7 @@ You will also find links to some completed projects.
 * Deploy a Website ==> COMPLETED | 11/06/2017
 * Ruby ==> COMPLETED | 27/06/2017
 * Learn Ruby on Rails ==> 25%
+* Python ==> 10%
 * Learn the Command Line ==> 46%
 * Javascript ==> 36%
 

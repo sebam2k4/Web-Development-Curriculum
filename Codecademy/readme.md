@@ -94,6 +94,11 @@
 1. Gettinng Started
 
 
+## Python
+#### IN PROGRESS | 10%
+1. Python Syntax
+2. Strings and Console Output
+
 ## Learn the Command Line
 #### IN PROGRESS | 46%
 1. Navigating the File System
