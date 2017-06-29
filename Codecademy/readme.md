@@ -95,9 +95,10 @@
 
 
 ## Python
-#### IN PROGRESS | 10%
+#### IN PROGRESS | 21%
 1. Python Syntax
 2. Strings and Console Output
+3. Conditionals and Control Flow
 
 ## Learn the Command Line
 #### IN PROGRESS | 46%
