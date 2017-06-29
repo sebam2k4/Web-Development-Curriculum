@@ -97,7 +97,7 @@
 ## Python
 #### IN PROGRESS | 21%
 1. Python Syntax
-2. Strings and Console Output
+2. Strings and Console Output - [Mad Libs Project](/Codecademy/Python/ "view Python projects")
 3. Conditionals and Control Flow
 
 ## Learn the Command Line
