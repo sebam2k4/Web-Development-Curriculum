@@ -2,8 +2,9 @@
 
 ## MTA: Software Development Fundamentals (98-361)
 #### IN PROGRESS
-* Course Resources ==> In progress
-
+* Course Resources
+* Lesson 1.1: Understanding Computer Programming ==> COMPLETED | 03/07/2017
+* Lesson 1.2: Understanding Decision Structure ==> IN PROGRESS
 
 ## CompTIA A+ 900 Series
 #### COMPLETED | 9/06/2017
