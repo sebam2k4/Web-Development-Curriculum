@@ -45,6 +45,7 @@ You will also find links to some completed projects.
 
 ## [Code Institute](/Code-Institute/ "View detailed info")
 * Full Stack Web Developer ==> IN PROGRESS
+  * Stream 0 ==> COMPLETED 04/07/2017
 
 ## Wesbos.com
 
