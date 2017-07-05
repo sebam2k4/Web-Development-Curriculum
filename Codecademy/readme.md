@@ -94,11 +94,17 @@
 1. Gettinng Started
 
 
+## Learn Sass
+#### IN PROGRESS | 25%
+1. Create a Sass Stylesheet - [Refactor CSS to SCSS](/Codecademy/Sass/ "View projects")
+
+
 ## Python
 #### IN PROGRESS | 21%
 1. Python Syntax
 2. Strings and Console Output - [Mad Libs Project](/Codecademy/Python/ "view Python projects")
 3. Conditionals and Control Flow
+
 
 ## Learn the Command Line
 #### IN PROGRESS | 46%
@@ -111,6 +117,3 @@
 1. Introduction to JavaScript
 2. Functions
 3. 'For' Loops in JavaScript
-
-
-
