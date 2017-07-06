@@ -5,7 +5,8 @@
 * Course Resources
 * Lesson 1.1: Understanding Computer Programming ==> COMPLETED | 03/07/2017
 * Lesson 1.2: Understanding Decision Structure ==> COMPLETED | 04/07/2017
-* Lesson 1.3: Understanding Repetition Structures ==> IN PROGRESS
+* Lesson 1.3: Understanding Repetition Structures ==> COMPLETED | 06/07/2017
+* Lesson 1.4: Understanding Exception Handling & Playing with Time ==> IN PROGRESS
 
 ## CompTIA A+ 900 Series
 #### COMPLETED | 9/06/2017
