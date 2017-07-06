@@ -95,8 +95,10 @@
 
 
 ## Learn Sass
-#### IN PROGRESS | 25%
+#### IN PROGRESS | 50%
 1. Create a Sass Stylesheet - [Refactor CSS to SCSS](/Codecademy/Sass/ "View projects")
+2. Mixins and the & Selector - [Sassy Parallax Banner](/Codecademy/Sass/ "view projects")
+3. Functions and Operations
 
 
 ## Python
