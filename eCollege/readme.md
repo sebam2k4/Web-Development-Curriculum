@@ -3,12 +3,12 @@
 ## MTA: Software Development Fundamentals (98-361)
 #### IN PROGRESS
 * Course Resources
-* Lesson 1: Understanding Core Programming => COMPLETED 08/07/2014
+* Chapter 1: Understanding Core Programming => COMPLETED 08/07/2014
   * Lesson 1.1: Understanding Computer Programming ==> COMPLETED | 03/07/2017
   * Lesson 1.2: Understanding Decision Structure ==> COMPLETED | 04/07/2017
   * Lesson 1.3: Understanding Repetition Structures ==> COMPLETED | 06/07/2017
   * Lesson 1.4: Understanding Exception Handling & Playing with Time
-* Lesson 2: Understanding Object Oriented Programming => IN PROGRESS
+* Chapter 2: Understanding Object Oriented Programming => IN PROGRESS
   * Understanding Objects
   
 
