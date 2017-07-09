@@ -16,8 +16,8 @@ You will also find links to some completed projects.
 * Make an Interactive Website ==> COMPLETED | 14/05/2017
 * Deploy a Website ==> COMPLETED | 11/06/2017
 * Ruby ==> COMPLETED | 27/06/2017
+* Learn Sass ==> COMPLETED | 09/07/2017
 * Learn Ruby on Rails ==> 25%
-* Learn Sass ==> 50%
 * Python ==> 21%
 * Learn the Command Line ==> 46%
 * Javascript ==> 36%
@@ -41,7 +41,7 @@ You will also find links to some completed projects.
 
 ## [eCollege.ie](/eCollege/ "View detailed info")
 * MTA: Software Development Fundamentals (98-361)
-  * Chapter 1: Understanding Core Programming ==> COMPLETED 08/07/2017
+  * Chapter 1: Understanding Core Programming ==> COMPLETED | 08/07/2017
   * Chapter 2: Understanding Object Oriented Programming ==> IN PROGRESS
 * CompTIA A+ 900 Series ==> COMPLETED | 9/06/2017
 

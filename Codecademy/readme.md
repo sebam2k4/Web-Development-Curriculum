@@ -88,17 +88,18 @@
 11. Final Project [To Do List Program](/Codecademy/Ruby/ "view Ruby Projects")
 
 
+## Learn Sass
+#### COMPLETED | 09/07/2017
+1. Create a Sass Stylesheet - [Refactor CSS to SCSS](/Codecademy/Sass/ "View projects")
+2. Mixins and the & Selector - [Sassy Parallax Banner](/Codecademy/Sass/ "view projects")
+3. Functions and Operations
+4. Sustainable SCSS
+
+
 ## Learn Ruby on Rails
 #### IN PROGRESS | 25%
 #### View and run completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (Requires a Cloud9 account to view)
 1. Gettinng Started
-
-
-## Learn Sass
-#### IN PROGRESS | 50%
-1. Create a Sass Stylesheet - [Refactor CSS to SCSS](/Codecademy/Sass/ "View projects")
-2. Mixins and the & Selector - [Sassy Parallax Banner](/Codecademy/Sass/ "view projects")
-3. Functions and Operations
 
 
 ## Python
