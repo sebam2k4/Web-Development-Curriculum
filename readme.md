@@ -66,5 +66,5 @@ You will also find links to some completed projects.
 ## Certification
 
 ### CompTIA A+ Certified | 22/06/2017
-* Exam 200-901 passed 14/4/2017
+* Exam 200-901 passed 14/04/2017
 * Exam 200-902 passed 22/06/2017
