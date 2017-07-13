@@ -9,9 +9,10 @@
   * Lesson 1.3: Understanding Repetition Structures ==> COMPLETED | 06/07/2017
   * Lesson 1.4: Understanding Exception Handling & Playing with Time ==> COMPLETED | 08/07/2017
 * Chapter 2: Understanding Object Oriented Programming ==> IN PROGRESS
-  * Lesson 2.1: Understanding Objects ==> COMPLETED 11/07/2017
-  * Lesson 2.2: Understanding Values and References ==> COMPLETED 12/07/2017
-  * Lesson 2.3: Understanding Encapsulation
+  * Lesson 2.1: Understanding Objects ==> COMPLETED | 11/07/2017
+  * Lesson 2.2: Understanding Values and References ==> COMPLETED | 12/07/2017
+  * Lesson 2.3: Understanding Encapsulation  ==> COMPLETED | 13/07/2017
+  * Lesson 2.4: Understanding Inheritance
   
 
 ## CompTIA A+ 900 Series
