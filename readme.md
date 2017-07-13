@@ -50,6 +50,7 @@ You will also find links to some completed projects.
 * Full Stack Web Developer ==> IN PROGRESS
   * Stream 0 ==> COMPLETED 04/07/2017
 
+## [FreeCodeCamp.org](/FreeCodeCamp/ "View detailed info")
 * Front End Development Certification == IN PROGRESS
 
 ## Wesbos.com
