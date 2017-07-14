@@ -13,7 +13,8 @@
   * Lesson 2.2: Understanding Values and References ==> COMPLETED | 12/07/2017
   * Lesson 2.3: Understanding Encapsulation  ==> COMPLETED | 13/07/2017
   * Lesson 2.4: Understanding Inheritance ==> COMPLETED | 13/07/2017
-  * Lesson 2.5: Understanding Polymorphism
+  * Lesson 2.5: Understanding Polymorphism ==> COMPLETED | 14/07/2017
+  * Lesson 2.6: Undestranding Understanding Interfaces and Event-Driven Programming
   
 
 ## CompTIA A+ 900 Series
