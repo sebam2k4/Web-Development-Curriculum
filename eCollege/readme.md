@@ -8,13 +8,14 @@
   * Lesson 1.2: Understanding Decision Structure ==> COMPLETED | 04/07/2017
   * Lesson 1.3: Understanding Repetition Structures ==> COMPLETED | 06/07/2017
   * Lesson 1.4: Understanding Exception Handling & Playing with Time ==> COMPLETED | 08/07/2017
-* Chapter 2: Understanding Object Oriented Programming ==> IN PROGRESS
+* Chapter 2: Understanding Object Oriented Programming  ==> COMPLETED | 15/07/2017
   * Lesson 2.1: Understanding Objects ==> COMPLETED | 11/07/2017
   * Lesson 2.2: Understanding Values and References ==> COMPLETED | 12/07/2017
   * Lesson 2.3: Understanding Encapsulation  ==> COMPLETED | 13/07/2017
   * Lesson 2.4: Understanding Inheritance ==> COMPLETED | 13/07/2017
   * Lesson 2.5: Understanding Polymorphism ==> COMPLETED | 14/07/2017
-  * Lesson 2.6: Undestranding Understanding Interfaces and Event-Driven Programming
+  * Lesson 2.6: Undestranding Understanding Interfaces and Event-Driven Programming ==> COMPLETED | 15/07/2017
+* Chapter 3: Understanding General Software Development ==> IN PROGRESS
   
 
 ## CompTIA A+ 900 Series
