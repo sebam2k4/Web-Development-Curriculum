@@ -16,6 +16,8 @@
   * Lesson 2.5: Understanding Polymorphism ==> COMPLETED | 14/07/2017
   * Lesson 2.6: Undestranding Understanding Interfaces and Event-Driven Programming ==> COMPLETED | 15/07/2017
 * Chapter 3: Understanding General Software Development ==> IN PROGRESS
+  * Lesson 3.1: Understanding Application Lifecycle Management ==> COMPLETED | 16/07/2017
+  * Lesson 3.2: Understanding Testing
   
 
 ## CompTIA A+ 900 Series
