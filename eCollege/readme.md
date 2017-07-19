@@ -21,7 +21,8 @@
   * Lesson 3.3: Understanding Data Structures ==> COMPLETED | 19/07/2017
   * Lesson 3.4: Understanding Sorting Algorithms ==> COMPLETED | 19/07/2017
 * Understanding Web Applications ==> IN PROGRESS
-  * Lesson 4.1: Understanding Web Page Development
+  * Lesson 4.1: Understanding Web Page Development ==> COMPLETED | 19/07/2017
+  * Lesson 4.2: Understanding ASP.NET Application Development
 
 ## CompTIA A+ 900 Series
 #### COMPLETED | 9/06/2017
