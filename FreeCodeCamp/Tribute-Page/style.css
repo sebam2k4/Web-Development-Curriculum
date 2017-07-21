@@ -1,0 +1,144 @@
+/* Changing the box model to border-box */
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+}
+
+body {
+    background-color: #26282E;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: #F7F7F7
+}
+
+header#hero-image {
+  min-height: 75vh;
+  width: 100%;
+  background-image: url("images/DIO.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  border-bottom: 8px solid #AD5138;
+  overflow: auto;
+
+}
+
+#header-text {
+  font-style: italic;
+  position: relative;
+  width: 90%;
+  margin: 40px auto;
+  text-align: center;
+}
+
+#header-text h1 {
+  font-family: serif;
+  line-height: 1;
+  margin: 0;
+  font-size: 5em;
+}
+
+p, ul , ol {
+  line-height: 1.4;
+  letter-spacing: 0.5px;
+}
+
+main {
+  border-bottom: 8px solid #AD5138;
+}
+
+article {
+  width: 85%;
+  margin: 0 auto;
+}
+
+header#tribute {
+  text-align: center;
+  height: auto;
+}
+
+main h1, footer h1 {
+  display: inline-block;
+  font-size: 2.1em;
+  font-weight: 600;
+  padding: 16px 8px 8px 8px;
+  margin: 0 auto 1em auto;
+  background-color: #AD5138;
+}
+
+main h2 {
+  font-size: 1.6em;
+  font-weight: 300;
+  margin: 0
+}
+
+main header p {
+  margin-bottom: 4em;
+}
+
+main header p span {
+  font-weight: 700;
+}
+
+.row {
+  width: 100%;
+  clear: both;
+  margin-bottom: 3em;
+  overflow: auto;
+}
+
+.left-side, .right-side {
+  width: 50%;
+  float: left;
+  padding: 0 15px;
+  border-left: 3px solid #AD5138;
+}
+
+main ol {
+  padding-left: 30px
+}
+
+main ol span {
+  color: #B0BAC2;
+}
+
+footer {
+  text-align: center;
+  background-color: #151619;
+}
+
+footer p {
+  color: #B0BAC2;
+}
+
+footer ul {
+  display: inline-block;
+  list-style: square;
+  text-align: left;
+  padding: 1em 0 2em 1em;
+  margin: 0;
+  color: #B0BAC2;
+}
+
+footer a {
+  font-weight: 600;
+  color: #DDDAE0;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #AD5138;
+}
+
+p#author {
+  margin: 0;
+  font-size: 0.8em;
+  padding-bottom: 3em;
+  line-height: 1.6;
+  letter-spacing: 1px;
+}
