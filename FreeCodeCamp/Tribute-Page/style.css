@@ -25,7 +25,6 @@ header#hero-image {
   background-position: center bottom;
   border-bottom: 8px solid #AD5138;
   overflow: auto;
-
 }
 
 #header-text {
@@ -74,7 +73,7 @@ main h1, footer h1 {
 main h2 {
   font-size: 1.6em;
   font-weight: 300;
-  margin: 0
+  margin: 0;
 }
 
 main header p {
@@ -86,26 +85,74 @@ main header p span {
 }
 
 .row {
-  width: 100%;
+  width: 90%;
+  margin: 0 auto;
   clear: both;
   margin-bottom: 3em;
   overflow: auto;
 }
 
 .left-side, .right-side {
-  width: 50%;
-  float: left;
+  width: 45%;
   padding: 0 15px;
   border-left: 3px solid #AD5138;
 }
 
+.left-side {
+  float: left;
+}
+
+.right-side {
+  float: right;
+  padding-right: 0;
+}
 main ol {
-  padding-left: 30px
+  padding-left: 30px;
+}
+
+main ol li {
+  padding-bottom: 8px;
+}
+
+ol.square {
+  list-style: square;
+  padding-left: 16px;
 }
 
 main ol span {
   color: #B0BAC2;
 }
+
+figure {
+  margin: 0;
+  padding: 0;
+  float: left;
+
+}
+
+figure#left-img {
+  width: 25%;
+}
+
+figure#center-img {
+  width: 50%;
+}
+
+figure#right-img {
+  width: 25%;
+}
+
+img {
+  height: auto;
+  width: 100%;
+}
+
+.gallery {
+  overflow: auto;
+  margin-bottom: -4px;
+  clear: both;
+}
+
 
 footer {
   text-align: center;
@@ -141,4 +188,25 @@ p#author {
   padding-bottom: 3em;
   line-height: 1.6;
   letter-spacing: 1px;
+}
+
+
+@media only screen and (max-width: 1000px) {
+  .left-side, .right-side {
+    width: 100%;
+    padding: 0 15px;
+    border-left: 3px solid #AD5138;
+  }
+  .left-side {
+    margin-bottom: 3em;
+  }
+  
+  article {
+    width: 95%;
+  }
+
+  .row {
+    width: 95%
+  }
+
 }
