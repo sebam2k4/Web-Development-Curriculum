@@ -77,35 +77,34 @@
 #### View and run completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (Requires a Cloud9 account to view)
 1. Introduction to Ruby
 2. Control Flow in Ruby
-3. Looping with Ruby - [Redacted Ruby Project](/Codecademy/Ruby/ "view Ruby Projects")
-4. Arrays and Hashes - [Histogram Project](/Codecademy/Ruby/ "view Ruby Projects")
-5. Methods, Blocks, and Sorting - [Ordering Your Library Project](Codecademy/Ruby/ "view Ruby Projects")
-6. Hashes and Symbols - [Night at the Movies Project](/Codecademy/Ruby/ "view Ruby Projects")
-7. Refactoring - [Refactor Factory Project](/Codecademy/Ruby/ "view Ruby Projects")
+3. Looping with Ruby - [Redacted Ruby Project](/Codecademy/Ruby-Projects/ "view Ruby Projects")
+4. Arrays and Hashes - [Histogram Project](/Codecademy/Ruby-Projects/ "view Ruby Projects")
+5. Methods, Blocks, and Sorting - [Ordering Your Library Project](Codecademy/Ruby-Projects/ "view Ruby Projects")
+6. Hashes and Symbols - [Night at the Movies Project](/Codecademy/Ruby-Projects/ "view Ruby Projects")
+7. Refactoring - [Refactor Factory Project](/Codecademy/Ruby-Projects/ "view Ruby Projects")
 8. Blocks, Procs, and Lambdas
-9. Object-Oriented Programming, Part 1 (Classes, Objects, & Inheritance) - [Virtual Computer Project](/Codecademy/Ruby/ "view Ruby Projects")
-10. Object-Oriented Programming, Part 2 (Info hiding, Modules, Mixins) - [Banking On Ruby Project](/Codecademy/Ruby/ "view Ruby Projects")
-11. Final Project [To Do List Program](/Codecademy/Ruby/ "view Ruby Projects")
+9. Object-Oriented Programming, Part 1 (Classes, Objects, & Inheritance) - [Virtual Computer Project](/Codecademy/Ruby-Projects/ "view Ruby Projects")
+10. Object-Oriented Programming, Part 2 (Info hiding, Modules, Mixins) - [Banking On Ruby Project](/Codecademy/Ruby-Projects/ "view Ruby Projects")
+11. Final Project [To Do List Program](/Codecademy/Ruby-Projects/ "view Ruby Projects")
 
 
 ## Learn Sass
 #### COMPLETED | 09/07/2017
-1. Create a Sass Stylesheet - [Refactor CSS to SCSS](/Codecademy/Sass/ "View projects")
-2. Mixins and the & Selector - [Sassy Parallax Banner](/Codecademy/Sass/ "view projects")
+1. Create a Sass Stylesheet - [Refactor CSS to SCSS](/Codecademy/Sass-Projects/ "View projects")
+2. Mixins and the & Selector - [Sassy Parallax Banner](/Codecademy/Sass-Projects/ "view projects")
 3. Functions and Operations
 4. Sustainable SCSS
 
 
 ## Learn Ruby on Rails
 #### IN PROGRESS | 25%
-#### View and run completed Projects on [Cloud9](https://ide.c9.io/sebam2k4/codecademy-ruby-practice) (Requires a Cloud9 account to view)
 1. Gettinng Started
 
 
 ## Python
 #### IN PROGRESS | 21%
 1. Python Syntax
-2. Strings and Console Output - [Mad Libs Project](/Codecademy/Python/ "view Python projects")
+2. Strings and Console Output - [Mad Libs Project](/Codecademy/Python-Projects/ "view Python projects")
 3. Conditionals and Control Flow
 
 
