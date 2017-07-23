@@ -23,7 +23,8 @@
 * Understanding Web Applications ==> IN PROGRESS
   * Lesson 4.1: Understanding Web Page Development ==> COMPLETED | 19/07/2017
   * Lesson 4.2: Understanding ASP.NET Application Development ==> COMPLETED | 23/07/2017
-  * Lesson 4.3: Understanding IIS Web Hosting
+  * Lesson 4.3: Understanding IIS Web Hosting ==> COMPLETED | 23/07/2017
+  * Lesson 4.4: Understanding Web Services Development
 
 ## CompTIA A+ 900 Series
 #### COMPLETED | 9/06/2017
