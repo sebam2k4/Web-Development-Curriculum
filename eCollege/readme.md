@@ -20,11 +20,13 @@
   * Lesson 3.2: Understanding Testing ==> COMPLETED | 18/07/2017
   * Lesson 3.3: Understanding Data Structures ==> COMPLETED | 19/07/2017
   * Lesson 3.4: Understanding Sorting Algorithms ==> COMPLETED | 19/07/2017
-* Understanding Web Applications ==> IN PROGRESS
+* Chapter 4: Understanding Web Applications ==> COMPLETED | 24/07/2017
   * Lesson 4.1: Understanding Web Page Development ==> COMPLETED | 19/07/2017
   * Lesson 4.2: Understanding ASP.NET Application Development ==> COMPLETED | 23/07/2017
   * Lesson 4.3: Understanding IIS Web Hosting ==> COMPLETED | 23/07/2017
-  * Lesson 4.4: Understanding Web Services Development
+  * Lesson 4.4: Understanding Web Services Development ==> COMPLETED | 24/07/2017
+* Chapter 5: Understanding Desktop Application ==> IN PROGRESS
+  * Lesson 5.1: Understanding Windows Forms Applications
 
 ## CompTIA A+ 900 Series
 #### COMPLETED | 9/06/2017

@@ -44,7 +44,8 @@ You will also find links to some completed projects.
   * Chapter 1: Understanding Core Programming ==> COMPLETED | 08/07/2017
   * Chapter 2: Understanding Object Oriented Programming ==> COMPLETED | 15/07/2017
   * Chapter 3: Understanding General Software Development ==> COMPLETED | 19/07/2017
-  * Chapter 4: Understanding Web Applications ==> IN PROGRESS
+  * Chapter 4: Understanding Web Applications ==> COMPLETED | 24/07/2014
+  * Chapter 5: Understanding Desktop Applications ==> IN PROGRESS
 * CompTIA A+ 900 Series ==> COMPLETED | 9/06/2017
 
 
