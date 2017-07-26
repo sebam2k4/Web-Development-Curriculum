@@ -76,4 +76,4 @@ You will also find links to some completed projects.
 * Exam 200-901 passed 14/04/2017
 * Exam 200-902 passed 22/06/2017
 
-![Comptia A+ Certified logo](https://s3-eu-west-1.amazonaws.com/sk-design/Certs/Aplus+Logo+Certified+CE.png)
+![Comptia A+ Certified logo](https://s3-eu-west-1.amazonaws.com/sk-design/Certs/Aplus+Logo+Certified+CE_small.png)
