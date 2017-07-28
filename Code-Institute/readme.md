@@ -14,4 +14,5 @@
   * Setting up Git ==> COMPLETED | 27/07/2017
   * Reopening the Box Model ==> COMPLETED | 26/07/2017
   * Reopening the Box Model 2 ==> COMPLETED | 26/07/2017
-  * Positioning & CSS
+  * Positioning & CSS ==> COMPLETED | 28/07/2017
+  * Media
