@@ -27,7 +27,8 @@
   * Lesson 4.4: Understanding Web Services Development ==> COMPLETED | 24/07/2017
 * Chapter 5: Understanding Desktop Application
   * Lesson 5.1: Understanding Windows Forms Applications ==> COMPLETED | 29/07/2017
-  * Lesson 5.2: Understanding Console Based Applications
+  * Lesson 5.2: Understanding Console Based Applications ==> COMPLETED | 29/07/2017
+  * Lesson 5.3: Understanding Windows Services
 
 ## CompTIA A+ 900 Series
 #### COMPLETED | 9/06/2017
