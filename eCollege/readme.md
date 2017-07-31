@@ -29,6 +29,9 @@
   * Lesson 5.1: Understanding Windows Forms Applications ==> COMPLETED | 29/07/2017
   * Lesson 5.2: Understanding Console Based Applications ==> COMPLETED | 29/07/2017
   * Lesson 5.3: Understanding Windows Services ==> COMPLETED | 30/07/2017
+* Chapter 6: Understanding Databases
+  * Lesson 6.1: Understanding Relational Database Concepts ==> COMPLETED | 31/07/2017
+  * Lesson 6.2: Understanding Database Query Methods
 
 ## CompTIA A+ 900 Series
 #### COMPLETED | 9/06/2017
