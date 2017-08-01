@@ -31,7 +31,8 @@
   * Lesson 5.3: Understanding Windows Services ==> COMPLETED | 30/07/2017
 * Chapter 6: Understanding Databases
   * Lesson 6.1: Understanding Relational Database Concepts ==> COMPLETED | 31/07/2017
-  * Lesson 6.2: Understanding Database Query Methods
+  * Lesson 6.2: Understanding Database Query Methods ==> COMPLETED | 01/08/2017
+  * Lesson 6.3: Understanding Database Connection Methods
 
 ## CompTIA A+ 900 Series
 #### COMPLETED | 9/06/2017
