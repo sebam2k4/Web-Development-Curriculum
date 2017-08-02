@@ -16,4 +16,5 @@
   * Reopening the Box Model 2 ==> COMPLETED | 26/07/2017
   * Positioning & CSS ==> COMPLETED | 28/07/2017
   * Media ==> COMPLETED | 29/07/2017
-  * Gradients, Transforms, & Transitions
+  * Gradients, Transforms, & Transitions ==> COMPLETED | 02/08/2017
+  * Navbar - CSS Selectors
