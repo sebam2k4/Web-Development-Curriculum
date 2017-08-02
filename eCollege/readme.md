@@ -32,7 +32,8 @@
 * Chapter 6: Understanding Databases
   * Lesson 6.1: Understanding Relational Database Concepts ==> COMPLETED | 31/07/2017
   * Lesson 6.2: Understanding Database Query Methods ==> COMPLETED | 01/08/2017
-  * Lesson 6.3: Understanding Database Connection Methods
+  * Lesson 6.3: Understanding Database Connection Methods ==> COMPLETED | 02/08/2017
+* Test Preparation
 
 ## CompTIA A+ 900 Series
 #### COMPLETED | 9/06/2017

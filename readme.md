@@ -46,8 +46,8 @@ You will also find links to some completed projects.
   * Chapter 3: Understanding General Software Development ==> COMPLETED | 19/07/2017
   * Chapter 4: Understanding Web Applications ==> COMPLETED | 24/07/2017
   * Chapter 5: Understanding Desktop Applications ==> COMPLETED | 30/07/2017
-  * Chapter 6: Understanding Databases
-
+  * Chapter 6: Understanding Databases ==> COMPLETED 02/08/2017
+  * Test Preparation
 * CompTIA A+ 900 Series ==> COMPLETED | 9/06/2017
 
 
