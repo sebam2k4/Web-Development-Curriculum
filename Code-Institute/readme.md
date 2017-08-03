@@ -17,4 +17,5 @@
   * Positioning & CSS ==> COMPLETED | 28/07/2017
   * Media ==> COMPLETED | 29/07/2017
   * Gradients, Transforms, & Transitions ==> COMPLETED | 02/08/2017
-  * Navbar - CSS Selectors
+  * Navbar - CSS Selectors ==> COMPLETED | 03/08/2017
+  * Flexbox
