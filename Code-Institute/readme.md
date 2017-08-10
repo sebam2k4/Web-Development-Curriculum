@@ -22,3 +22,5 @@
   * Semantic Web & Font ==> COMPLETED | 06/08/2017
   * User Experience Desing ==> COMPLETED | 09/08/2017
   * Balsamiq ==> COMPLETED | 10/08/2017
+  * Forms ==> COMPLETED | 10/08/2017
+  * Bootstrap
