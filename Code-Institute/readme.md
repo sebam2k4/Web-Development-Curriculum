@@ -21,4 +21,4 @@
   * Flexbox ==> COMPLETED | 04/08/2017
   * Semantic Web & Font ==> COMPLETED | 06/08/2017
   * User Experience Desing ==> COMPLETED | 09/08/2017
-  * Balsamiq
+  * Balsamiq ==> COMPLETED | 10/08/2017
