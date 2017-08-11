@@ -1,7 +1,7 @@
 # Code Institute
 
 ## Full Stack Web Developer - Mentored Online Programme
-#### Diploma in Software Development (Level 5 EQF)
+#### Diploma in Software Development - Level 6 (Level 5 EQF)
 #### IN PROGRESS
 * Stream 0 => COMPLETED 04/07/2017
   * HTML
@@ -24,5 +24,5 @@
   * Balsamiq ==> COMPLETED | 10/08/2017
   * Forms ==> COMPLETED | 10/08/2017
   * Bootstrap ==> COMPLETED | 11/08/2017
-  * Bootstrap Nav Elements
-  
+  * Bootstrap Nav Elements ==> COMPLETED | 11/07/2017
+  * Bootstrap Responsive Design
