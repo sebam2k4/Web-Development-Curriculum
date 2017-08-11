@@ -23,4 +23,6 @@
   * User Experience Desing ==> COMPLETED | 09/08/2017
   * Balsamiq ==> COMPLETED | 10/08/2017
   * Forms ==> COMPLETED | 10/08/2017
-  * Bootstrap
+  * Bootstrap ==> COMPLETED | 11/08/2017
+  * Bootstrap Nav Elements
+  
