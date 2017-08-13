@@ -25,4 +25,6 @@
   * Forms ==> COMPLETED | 10/08/2017
   * Bootstrap ==> COMPLETED | 11/08/2017
   * Bootstrap Nav Elements ==> COMPLETED | 11/07/2017
-  * Bootstrap Responsive Design
+  * Bootstrap Responsive Design ==> COMPLETED | 13/07/2017
+  * JavaScript Revisited
+  
