@@ -1,7 +1,7 @@
 # eCollege.ie
 
 ## MTA: Software Development Fundamentals (98-361)
-#### IN PROGRESS
+#### COMPLETED | 16/08/2017
 * Course Resources
 * Chapter 1: Understanding Core Programming
   * Lesson 1.1: Understanding Computer Programming ==> COMPLETED | 03/07/2017
@@ -33,7 +33,7 @@
   * Lesson 6.1: Understanding Relational Database Concepts ==> COMPLETED | 31/07/2017
   * Lesson 6.2: Understanding Database Query Methods ==> COMPLETED | 01/08/2017
   * Lesson 6.3: Understanding Database Connection Methods ==> COMPLETED | 02/08/2017
-* Test Preparation
+* Test Preparation ==> COMPLETED | 16/08/2017
 
 ## CompTIA A+ 900 Series
 #### COMPLETED | 9/06/2017

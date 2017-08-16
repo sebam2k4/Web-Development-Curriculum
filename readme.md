@@ -40,14 +40,14 @@ You will also find links to some completed projects.
 
 
 ## [eCollege.ie](/eCollege/ "View detailed info")
-* MTA: Software Development Fundamentals (98-361)
+* MTA: Software Development Fundamentals (98-361) ==> COMPLETED | 16/08/2017
   * Chapter 1: Understanding Core Programming ==> COMPLETED | 08/07/2017
   * Chapter 2: Understanding Object Oriented Programming ==> COMPLETED | 15/07/2017
   * Chapter 3: Understanding General Software Development ==> COMPLETED | 19/07/2017
   * Chapter 4: Understanding Web Applications ==> COMPLETED | 24/07/2017
   * Chapter 5: Understanding Desktop Applications ==> COMPLETED | 30/07/2017
   * Chapter 6: Understanding Databases ==> COMPLETED | 02/08/2017
-  * Test Preparation
+  * Test Preparation ==> COMPLETED | 16/08/2017
 * CompTIA A+ 900 Series ==> COMPLETED | 9/06/2017
 
 
