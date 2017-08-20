@@ -74,6 +74,8 @@ You will also find links to some completed projects.
 
 ## Certification
 
+### (MTA): Software Development Fundamentals | 17/08/2017
+
 ### CompTIA A+ Certified | 22/06/2017
 * Exam 200-901 passed 14/04/2017
 * Exam 200-902 passed 22/06/2017
