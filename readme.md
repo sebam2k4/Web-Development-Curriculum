@@ -57,7 +57,7 @@ You will also find links to some completed projects.
   * Stream 1: Front End Development ==> IN PROGRESS
 
 ## [FreeCodeCamp.org](/FreeCodeCamp/ "View detailed info")
-* Front End Development Certification == IN PROGRESS
+* Front End Development Certification ==> IN PROGRESS
 
 ## Wesbos.com
 
