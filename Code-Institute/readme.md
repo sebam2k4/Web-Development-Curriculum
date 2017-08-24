@@ -28,5 +28,6 @@
   * Bootstrap Responsive Design ==> COMPLETED | 13/07/2017
   * JavaScript Revisited ==> COMPLETED | 22/08/2017
   * jQuery ==> COMPLETED | 24/08/2017
-  * jQuery Events
+  * jQuery Events ==> COMPLETED | 24/08/2017
+  * jQuery: Traversing MT.DOM
   
