@@ -76,7 +76,7 @@ You will also find links to some completed projects.
 
 ### Microsoft Technology Associate (MTA) Certified | 17/08/2017
 
-![MTA Certified logo](https://s3-eu-west-1.amazonaws.com/sk-design/Certs/MTA_SoftDev_Blk_extra_small.png)
+[![MTA Certified logo](https://s3-eu-west-1.amazonaws.com/sk-design/Certs/MTA_SoftDev_Blk_extra_small.png)](https://www.youracclaim.com/badges/3862e38e-72f0-4e64-a231-3cb1489c7815 "View Certification")
 
 ### CompTIA A+ Certified | 22/06/2017
 * Exam 200-901 passed 14/04/2017
