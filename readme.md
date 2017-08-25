@@ -74,7 +74,9 @@ You will also find links to some completed projects.
 
 ## Certification
 
-### Microsoft Technology Associate (MTA): Software Development Fundamentals | 17/08/2017
+### Microsoft Technology Associate (MTA) Certified | 17/08/2017
+
+![MTA Certified logo](https://s3-eu-west-1.amazonaws.com/sk-design/Certs/MTA_SoftDev_Blk_extra_small.png)
 
 ### CompTIA A+ Certified | 22/06/2017
 * Exam 200-901 passed 14/04/2017
