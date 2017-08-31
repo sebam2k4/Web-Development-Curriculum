@@ -30,5 +30,6 @@
   * jQuery ==> COMPLETED | 24/08/2017
   * jQuery Events ==> COMPLETED | 24/08/2017
   * jQuery: Traversing MT.DOM ==> COMPLETED | 25/08/2017
-  * JavaScript Part 2
+  * JavaScript Part 2 ==> COMPLETED | 31/08/2017
+  * Testing in JavaScript
   
