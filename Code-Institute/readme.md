@@ -31,5 +31,5 @@
   * jQuery Events ==> COMPLETED | 24/08/2017
   * jQuery: Traversing MT.DOM ==> COMPLETED | 25/08/2017
   * JavaScript Part 2 ==> COMPLETED | 31/08/2017
-  * Testing in JavaScript
-  
+  * Testing in JavaScript  ==> COMPLETED | 01/09/2017
+  * ANGULAR.JS
