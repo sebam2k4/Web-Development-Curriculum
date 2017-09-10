@@ -33,5 +33,5 @@
   * JavaScript Part 2 ==> COMPLETED | 31/08/2017
   * Testing in JavaScript  ==> COMPLETED | 01/09/2017
   * Troubleshooting Tips ==> COMPLETED | 02/09/2017
-  * ANGULAR.JS ==> COMPLETED | 08/09/2017
-  
+  * AngularJS ==> COMPLETED | 08/09/2017
+  * STREAM 1 PROJECT ==> IN PROGRESS
