@@ -96,11 +96,6 @@
 4. Sustainable SCSS
 
 
-## Learn Ruby on Rails
-#### IN PROGRESS | 25%
-1. Gettinng Started
-
-
 ## Python
 #### IN PROGRESS | 21%
 1. Python Syntax
@@ -112,10 +107,3 @@
 #### IN PROGRESS | 46%
 1. Navigating the File System
 2. Viewing and Changing the File System
-
-
-## Javascript
-#### IN PROGRESS | 36%
-1. Introduction to JavaScript
-2. Functions
-3. 'For' Loops in JavaScript
