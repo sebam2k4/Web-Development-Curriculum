@@ -31,7 +31,7 @@ You will also find links to some completed projects.
 
 ## [Udemy](/Udemy/ "View projects and detailed info")
 
-* The Complete Web Developer Bootcamp - Beginner to Expert | Robeen Dey ==> 91%
+* The Complete Web Developer Bootcamp - Beginner to Expert | Robeen Dey ==> 91% 
 * The Complete Web Developer Course 2.0 | Rob Percival ==> 33%
 * CompTIA A+ Certification 901. The Total Course | Mike Meyers ==> COMPLETED | 22/03/2017
 * CompTIA A+ Certification 902. The Total Course | Mike Meyers ==> COMPLETED | 28/04/2017
@@ -56,6 +56,9 @@ You will also find links to some completed projects.
 
 ## [FreeCodeCamp.org](/FreeCodeCamp/ "View detailed info")
 * Front End Development Certification ==> IN PROGRESS
+
+## [Scotch.io](/Scotch/ "View detailed info")
+* Getting Started with AngularJS 1.x ==> IN PROGRESS
 
 ## Wesbos.com
 
