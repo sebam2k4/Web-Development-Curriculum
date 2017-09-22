@@ -52,7 +52,9 @@ You will also find links to some completed projects.
 ## [Code Institute](/Code-Institute/ "View detailed info")
 * Diploma in Software Development - Full Stack Web Developer ==> IN PROGRESS
   * Stream 0 ==> COMPLETED 04/07/2017
-  * Stream 1: Front End Development ==> IN PROGRESS
+  * Stream 1: Front End Development ==> COMPLETED 12/09/2017
+    * Stream 1 Project: [Examination Application](https://github.com/sebam2k4/stream1-project) ==> IN PROGRESS
+  * Stream 2: Back End Development
 
 ## [FreeCodeCamp.org](/FreeCodeCamp/ "View detailed info")
 * Front End Development Certification ==> IN PROGRESS
