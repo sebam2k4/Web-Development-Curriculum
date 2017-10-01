@@ -4,11 +4,13 @@ A list of online courses and other resources helping me in becoming a Full-Stack
 
 You will also find links to some completed projects.
 
-## [Code Institute](/Code-Institute/ "View detailed info") -  Diploma in Software Development - Full Stack Web Developer ==> IN PROGRESS
+## [Code Institute](/Code-Institute/ "View detailed info") 
+### Diploma in Software Development - Full Stack Web Developer
 * Stream 0 ==> COMPLETED 04/07/2017
 * Stream 1: Front End Development ==> COMPLETED 12/09/2017
   * Stream 1 Project: [Examination AngularJS App](https://github.com/sebam2k4/stream1-project) ==> IN PROGRESS
 * Stream 2: Back End Development ==> IN PROGRESS
+* Stream 3: Full Stack Development
 
 
 ## [Codecademy](/Codecademy/ "View projects and detailed info")
