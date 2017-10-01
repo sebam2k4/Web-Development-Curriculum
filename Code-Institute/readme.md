@@ -34,4 +34,8 @@
   * Testing in JavaScript  ==> COMPLETED | 01/09/2017
   * Troubleshooting Tips ==> COMPLETED | 02/09/2017
   * AngularJS ==> COMPLETED | 08/09/2017
-  * STREAM 1 PROJECT ==> IN PROGRESS
+  * [STREAM 1 PROJECT - Examination Application](https://github.com/sebam2k4/stream1-project) ==> IN PROGRESS
+* Stream 2: Back End Development
+  * Installing Python ==> COMPLETED | 30/09/2017
+  * Installing Pycharm ==> COMPLETED | 1/10/2017
+  * Testing - Intro ==> IN PROGRESS

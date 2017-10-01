@@ -4,6 +4,12 @@ A list of online courses and other resources helping me in becoming a Full-Stack
 
 You will also find links to some completed projects.
 
+## [Code Institute](/Code-Institute/ "View detailed info") -  Diploma in Software Development - Full Stack Web Developer ==> IN PROGRESS
+* Stream 0 ==> COMPLETED 04/07/2017
+* Stream 1: Front End Development ==> COMPLETED 12/09/2017
+  * Stream 1 Project: [Examination AngularJS App](https://github.com/sebam2k4/stream1-project) ==> IN PROGRESS
+* Stream 2: Back End Development ==> IN PROGRESS
+
 
 ## [Codecademy](/Codecademy/ "View projects and detailed info")
 
@@ -47,14 +53,6 @@ You will also find links to some completed projects.
   * Chapter 6: Understanding Databases ==> COMPLETED | 02/08/2017
   * Test Preparation ==> COMPLETED | 16/08/2017
 * CompTIA A+ 900 Series ==> COMPLETED | 9/06/2017
-
-
-## [Code Institute](/Code-Institute/ "View detailed info")
-* Diploma in Software Development - Full Stack Web Developer ==> IN PROGRESS
-  * Stream 0 ==> COMPLETED 04/07/2017
-  * Stream 1: Front End Development ==> COMPLETED 12/09/2017
-    * Stream 1 Project: [Examination Application](https://github.com/sebam2k4/stream1-project) ==> IN PROGRESS
-  * Stream 2: Back End Development
 
 ## [FreeCodeCamp.org](/FreeCodeCamp/ "View detailed info")
 * Front End Development Certification ==> IN PROGRESS
