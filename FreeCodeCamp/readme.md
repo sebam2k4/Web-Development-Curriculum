@@ -9,4 +9,5 @@
   * Tribute Page - [View on Codepen](https://codepen.io/sebam2k4/full/NvKRgO/ "Dio Tribute Webpage")
 * Basic JavaScript ==> COMPLETED | 23/08/2017
 * Object Oriented and Functional Programming ==> COMPLETED | 23/08/2017
-* Basic Algorithm Scripting (Challenges)
+* Basic Algorithm Scripting (JavaScript Challenges) ==> IN PROGRESS
+* JSON APIs and Ajax ==> IN PROGRESS
