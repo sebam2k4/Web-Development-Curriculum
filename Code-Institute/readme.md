@@ -4,12 +4,12 @@
 #### Diploma in Software Development - Level 6 (Level 5 EQF)
 #### IN PROGRESS
 - **Stream 0: Intro** => COMPLETED 04/07/2017
-  - HTML
-  - CSS
-  - Scratch
-  - Javascript
-  - Git and GitHub
-  - Python
+  - **HTML**
+  - **CSS**
+  - **Scratch**
+  - **Javascript**
+  - **Git and GitHub**
+  - **Python**
 - **Stream 1: Front End Development**
   - **Setting up Git** ==> COMPLETED | 27/07/2017
   - **Reopening the Box Model** ==> COMPLETED | 26/07/2017
@@ -34,7 +34,7 @@
   - **Testing in JavaScript**  ==> COMPLETED | 01/09/2017
   - **Troubleshooting Tips** ==> COMPLETED | 02/09/2017
   - **AngularJS** ==> COMPLETED | 08/09/2017
-  - **[STREAM 1 PROJECT - Examination Application]**(https://github.com/sebam2k4/stream1-project) ==> COMPLETED 07/10/2017
+  - [**STREAM 1 PROJECT - Examination Application**](https://github.com/sebam2k4/stream1-project) ==> COMPLETED 07/10/2017
 - **Stream 2: Back End Development**
   - **Installing Python** ==> COMPLETED | 30/09/2017
   - **Installing Pycharm** ==> COMPLETED | 1/10/2017
