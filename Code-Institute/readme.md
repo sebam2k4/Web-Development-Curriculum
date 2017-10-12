@@ -39,4 +39,5 @@
   - **Installing Python** ==> COMPLETED | 30/09/2017
   - **Installing Pycharm** ==> COMPLETED | 1/10/2017
   - **Testing** ==> COMPLETED | 09/10/2017
-  - **Version Control** ==> IN PROGRESS
+  - **Version Control** ==> COMPLETED | 12/10/2017
+  - **Boogle Solver Part 1** ==> IN PROGRESS
