@@ -40,4 +40,6 @@
   - **Installing Pycharm** ==> COMPLETED | 1/10/2017
   - **Testing** ==> COMPLETED | 09/10/2017
   - **Version Control** ==> COMPLETED | 12/10/2017
-  - **Boogle Solver Part 1** ==> IN PROGRESS
+  - **Boggle Solver Part 1** ==> COMPLETED | 14/10/2017
+  - **Boggle Solver Part 2** ==> COMPLETED | 14/10/207
+  - **File IO and Exceptions** ==> COMPLETED| 15/10/2017
