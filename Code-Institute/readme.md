@@ -44,7 +44,7 @@
   - **Boggle Solver Part 2** ==> COMPLETED | 14/10/207
   - **File IO and Exceptions** ==> COMPLETED | 15/10/2017
   - **Conway's Game of Life** ==> COMPLETED | 15/10/2017
-  - **Classes - Intro** ==> IN PROGRESS
+  - **Classes - Intro** ==> COMPLETED | 16/10/2017
   - **Database Fundamentsls**
   - **Install MySQL and MySQL Workbench**
   - **MySQL Database Creation**
