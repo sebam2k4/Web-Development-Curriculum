@@ -45,9 +45,9 @@
   - **File IO and Exceptions** ==> COMPLETED | 15/10/2017
   - **Conway's Game of Life** ==> COMPLETED | 15/10/2017
   - **Classes - Intro** ==> COMPLETED | 16/10/2017
-  - **Database Fundamentsls**
-  - **Install MySQL and MySQL Workbench**
-  - **MySQL Database Creation**
+  - **Database Fundamentals** ==> COMPLETED | 16/10/2017
+  - **Install MySQL and MySQL Workbench** ==> COMPLETED | 17/10/2017
+  - **MySQL Database Creation** ==> COMPLETED | 17/10/2017
   - **Data Creation and Modification**
   - **Data Selection Queries part 1**
   - **Data Selection Queries part 2**
