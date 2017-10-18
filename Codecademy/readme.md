@@ -96,6 +96,11 @@
 4. Sustainable SCSS
 
 
+## Learn SQL - Manipulation
+#### IN PROGRESS | 5%
+1. Manipulation
+
+
 ## Python
 #### IN PROGRESS | 21%
 1. Python Syntax
