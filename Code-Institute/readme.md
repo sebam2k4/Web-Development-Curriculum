@@ -48,6 +48,10 @@
   - **Database Fundamentals** ==> COMPLETED | 16/10/2017
   - **Install MySQL and MySQL Workbench** ==> COMPLETED | 17/10/2017
   - **MySQL Database Creation** ==> COMPLETED | 17/10/2017
-  - **Data Creation and Modification**
-  - **Data Selection Queries part 1**
-  - **Data Selection Queries part 2**
+  - **Data Creation and Modification** ==> COMPLETED | 17/10/2017
+  - **Data Selection Queries part 1** ==> COMPLETED | 18/10/2017
+  - **Data Selection Queries part 2** ==>
+  - **Using Python with MySQL part 1**
+  - **Using Python with MySQL part 2**
+  - **Using Python with MySQL part 3**
+  - **Twitter API Setup and Trends**
