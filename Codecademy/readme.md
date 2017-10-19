@@ -97,8 +97,9 @@
 
 
 ## Learn SQL - Manipulation
-#### IN PROGRESS | 5%
+#### IN PROGRESS | 25%
 1. Manipulation
+2. Queries
 
 
 ## Python
