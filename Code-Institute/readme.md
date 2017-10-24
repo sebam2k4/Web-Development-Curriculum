@@ -54,4 +54,9 @@
   - **Using Python with MySQL part 1** ==> COMPLETED | 20/10/2017
   - **Using Python with MySQL part 2** ==> COMPLETED | 24/10/2017
   - **Using Python with MySQL part 3** ==> COMPLETED | 24/10/2017
-  - **Twitter API Setup and Trends**
+  - **Twitter API Setup and Trends** ==> COMPLETED | 24/10/2017
+  - **Twitter API - Tweets Part 1**
+  - **Visualizing with Matplotlib**
+  - **Twitter API - Tweets Part 2**
+  - **Twitter Streams 1**
+  - **Twitter Streams 2**
