@@ -51,7 +51,7 @@
   - **Data Creation and Modification** ==> COMPLETED | 17/10/2017
   - **Data Selection Queries part 1** ==> COMPLETED | 18/10/2017
   - **Data Selection Queries part 2** ==> COMPLETED | 18/10/2017
-  - **Using Python with MySQL part 1**
-  - **Using Python with MySQL part 2**
-  - **Using Python with MySQL part 3**
+  - **Using Python with MySQL part 1** ==> COMPLETED | 20/10/2017
+  - **Using Python with MySQL part 2** ==> COMPLETED | 24/10/2017
+  - **Using Python with MySQL part 3** ==> COMPLETED | 24/10/2017
   - **Twitter API Setup and Trends**
