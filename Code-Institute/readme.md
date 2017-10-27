@@ -55,8 +55,17 @@
   - **Using Python with MySQL part 2** ==> COMPLETED | 24/10/2017
   - **Using Python with MySQL part 3** ==> COMPLETED | 24/10/2017
   - **Twitter API Setup and Trends** ==> COMPLETED | 24/10/2017
-  - **Twitter API - Tweets Part 1**
-  - **Visualizing with Matplotlib**
-  - **Twitter API - Tweets Part 2**
-  - **Twitter Streams 1**
-  - **Twitter Streams 2**
+  - **Twitter API - Tweets Part 1** ==> COMPLETED | 25/10/2017
+  - **Visualizing with Matplotlib** ==> COMPLETED | 26/10/2017
+  - **Twitter API - Tweets Part 2** ==> COMPLETED | 27/10/2017
+  - **Twitter Streams 1** ==> COMPLETED | 27/10/2017
+  - **Twitter Streams 2** ==> COMPLETED | 27/10/2017
+  - **Introduction To MongoDB**
+  - **Web Scraping**
+  - **Data Visualization & D3**
+  - **D3 & Data**
+  - **D3 Scales**
+  - **D3 Axes & External Files**
+  - **Dimensional Charting with D3.js**
+  - **Flask**
+  - **Creating a Data Dashboard**
