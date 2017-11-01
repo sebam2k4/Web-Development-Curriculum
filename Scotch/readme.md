@@ -14,10 +14,14 @@
   - **Wokring with Remote Data** ==> COMPLETED 25/09/2017
   - **HTTP Requests and Promises** ==> COMPLETED 25/09/2017
   - **Switching to Services** ==> COMPLETED 25/09/2017
-- **CRUD**
+- **CRUD** ==> Skipped (outside of scope for now)
   - **Putting in the Sidenav**
   - **Adding New Classifieds**
   - **Editing Existing Classifieds**
   - **Filter Data**
   - **Adding Animations**
-- **Routing with UI-Router**
+- **Routing with UI-Router** ==> Skipped (outside of scope for now)
+- **Directives** 
+  - **Isolating Scope** ==> COMPLETED 01/11/2017
+  - **Setting up the Classified Card Directive** ==> COMPLETED 01/11/2017
+  - **Finishing the Directive** ==> COMPLETED 01/11/2017
