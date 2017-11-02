@@ -62,7 +62,7 @@
   - **Twitter Streams 2** ==> COMPLETED | 27/10/2017
   - **Introduction To MongoDB** ==> COMPLETED | 01/11/2017
   - **Web Scraping** ==> COMPLETED | 01/11/2017
-  - **Data Visualization & D3**
+  - **Data Visualization & D3** ==> COMPLETED | 01/11/2017
   - **D3 & Data**
   - **D3 Scales**
   - **D3 Axes & External Files**
