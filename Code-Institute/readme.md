@@ -63,7 +63,7 @@
   - **Introduction To MongoDB** ==> COMPLETED | 01/11/2017
   - **Web Scraping** ==> COMPLETED | 01/11/2017
   - **Data Visualization & D3** ==> COMPLETED | 01/11/2017
-  - **D3 & Data**
+  - **D3 & Data** ==> COMPLETED | 02/11/2017
   - **D3 Scales**
   - **D3 Axes & External Files**
   - **Dimensional Charting with D3.js**
