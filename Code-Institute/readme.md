@@ -66,6 +66,8 @@
   - **D3 & Data** ==> COMPLETED | 02/11/2017
   - **D3 Scales** ==> COMPLETED | 02/11/2017
   - **D3 Axes & External Files** ==> COMPLETED | 03/11/2017
-  - **Dimensional Charting with D3.js, DC.js, and Crossfilter.js**
-  - **Flask**
+  - **Dimensional Charting with D3.js, DC.js, and Crossfilter.js** ==> COMPLETED | 04/11/2017
+  - **Flask** ==> COMPLETED | 04/11/2017
   - **Creating a Data Dashboard**
+  - **Troubleshooting Tips**  ==> COMPLETED | 04/11/2017
+  - **STREAM 2 PROJECT**
