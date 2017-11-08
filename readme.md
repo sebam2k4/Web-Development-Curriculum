@@ -69,6 +69,8 @@ You will also find links to some completed projects.
 ## Youtube Videos/Channels
 
 - [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ "Visit DevTips YouTube channel")
+- [Traversy](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA "Visit Traversy Media YouTube channel")
+- [Level Up Tutorials](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg "Visit Level Up Tutorials YouTube channel")
 
 
 ## Books
