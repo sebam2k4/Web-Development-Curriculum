@@ -15,3 +15,5 @@
   - **Random Quote Machine** - View [demo](https://sebam2k4.github.io/Random-Quote-Generator-JS/) or [source files](https://github.com/sebam2k4/Random-Quote-Generator-JS)
   - **Local Weather page** ==> IN PROGRESS
 - **Intermediate Algorithm Scripting**  ==> IN PROGRESS
+- **Advanced Front-End Projects** ==> IN PROGRESS
+  - **JavaScript Calculator** - View [demo](http://frail-pen.surge.sh/) or [source files](https://github.com/sebam2k4/Calculator-JS-Jasmine)
