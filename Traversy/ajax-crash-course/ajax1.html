@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Ajax Crash Course 1 - Text File</title>
+</head>
+<body>
+  
+  <button id="button">Get Text File</button>
+  <p>open the console!</p>
+  <p>result from xhr.onreadystatechange:</p>
+  <p id="text"></p>
+  <p>result from xhr.onload:</p>
+  <p id="text2"></p>
+
+  <script>
+    // Create event listener
+    document.getElementById('button').addEventListener('click', loadText);
+
+
+    function loadText() {
+      // create XHR Object
+      var xhr = new XMLHttpRequest();
+      // call open function - type of request, url/file, async or not
+      xhr.open('GET', 'data/sample.txt', true);
+
+
+      console.log('READYSTATE: ', xhr.readyState); //1
+
+      // OPTIONAL - used for loaders
+      xhr.onprogress = function() {
+        console.log('READYSTATE in loader: ', xhr.readyState); //3
+      }
+
+      //METHOD 1
+      // load request old way using .onreadystatechange
+      xhr.onreadystatechange = function() {
+        console.log('READYSTATE: ', xhr.readyState); //2 -> 3 -> 4
+        if(this.readyState == 4 && this.status == 200) {// need to check readyState is 4
+          console.log(this.responseText);
+          document.getElementById('text').innerHTML = this.responseText;
+        } else if(this.status == 404) {
+          console.log("file not found");
+          document.getElementById('text').innerHTML = "sample.txt file not found";
+        }
+      }
+      // METHOD 2
+      // load request - new way with .onload
+      xhr.onload = function() {
+        console.log('READYSTATE: ', xhr.readyState); //onload doesn't run until it's ready (4)
+        if(this.status == 200) {
+          console.log(this.responseText);
+          document.getElementById('text2').innerHTML = this.responseText;
+        } else if(this.status == 404) {
+          console.log("file not found");
+          document.getElementById('text2').innerHTML = "sample.txt file not found";
+        }
+      }
+
+      // included .onerror when using .onload just in case of errors
+      xhr.onerror = function() {
+        console.log('Request Error')
+      }
+
+      // send request
+      xhr.send();
+
+      
+    }
+  </script>
+
+</body>
+</html>
