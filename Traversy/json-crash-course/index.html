@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>JSON Sandbox</title>
+</head>
+<body>
+
+<h3>From JS array of objects:</h3>
+  <ul id="people"></ul>
+
+<h3>From JSON using an AJAX call:</h3>
+  <ul id="peopleJson"></ul>
+
+
+<script>
+  var person = {
+    name: "Sebastian",
+    age: 32,
+    address: {
+      street: "10 Thomas St",
+      city: "Miami"
+    },
+    children: ["Brian", "Amanda"]
+  }
+
+  /*
+  // valid json can be sent to a server
+  // stringify object to json
+  person = JSON.stringify(person);
+  // pars json into object
+  person = JSON.parse(person);
+  */
+  console.log(person.children[1])
+
+//array of objects
+  var people = [
+    {
+      name: "Sebek",
+      age: 32
+    },
+    {
+      name: "Wes",
+      age: 34
+    },
+    {
+      name: "Kris",
+      age: 40
+    }
+  ];
+
+  console.log(people[2].name + " is " + people[2].age + " years old")
+
+  // Loop through the array of objects
+  for(var i = 0; i < people.length; i++){
+    console.log(people[i]);  // output each object
+    console.log(people[i].name);  // output each name property
+  }
+
+
+  // output property to html
+  var output = '';
+  for(var i = 0; i < people.length; i++){
+    output += '<li>' + people[i].name + '</li>' // append name property inside <li> tags
+  }
+  document.getElementById('people').innerHTML = output;
+
+  // Get data from JSON:
+  // send a get requst to the people.json file using AJAX
+  // and once we get it, then output the data.
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      // aaction to be performed when the document is ready:
+      console.log(xhttp.responseText); //Display the data in console - need to run server (use httlp-server)
+      // now able to access the response (data)
+      // parse the data to object and store in a variable.
+      var response = JSON.parse(xhttp.responseText);
+      // test to see if we get people object now
+      console.log(response.people);
+      var people_json = response.people
+
+      //loop through the people object
+      var output2 = '';
+      for (var i = 0; i < people_json.length; i++) {
+        output2 += '<li>' + people[i].name + '</li>'
+      }
+      document.getElementById('peopleJson').innerHTML = output2;
+
+
+    }
+};
+xhttp.open("GET", "people.json", true);
+xhttp.send();
+
+</script>
+
+</body>
+
+</html>

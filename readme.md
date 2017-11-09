@@ -63,6 +63,9 @@ You will also find links to some completed projects.
 ## [Scotch.io](/Scotch/ "View detailed info")
 - **Getting Started with AngularJS 1.x** ==> IN PROGRESS
 
+## [Traversy Media](/Traversy/ "View detailed info")
+- **JSON Crash Course** ==> COMPLETED | 09/11/17
+
 ## Wesbos.com
 
 
