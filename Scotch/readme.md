@@ -1,4 +1,4 @@
-# Scotch.io
+# [Scotch.io](https://scotch.io/ "Visit Scotch.io")
 
 ## Getting Started with AngularJS 1.x
 #### IN PROGRESS
