@@ -16,9 +16,10 @@ You will also find links to some completed projects.
 ## [FreeCodeCamp.org](/FreeCodeCamp/ "View detailed info")
 - **Front End Development Certification** ==> IN PROGRESS
 
+## [MongoDB University](/mongoDB-university/ "View detailed info") 
+- **M001: MongoDB Basics** ==> IN PROGRESS
 
 ## [Codecademy](/Codecademy/ "View projects and detailed info")
-
 - **Learn HTML & CSS Part 1** ==> COMPLETED | 03/2017
 - **Make a Website** ==> COMPLETED | 03/2017
 - **Learn Javascript** ==> COMPLETED | 02/2017
@@ -34,7 +35,6 @@ You will also find links to some completed projects.
 - **Learn the Command Line** ==> 46%
 
 ## [Udemy](/Udemy/ "View projects and detailed info")
-
 - **The Complete Web Developer Bootcamp - Beginner to Expert** | Robeen Dey ==> 91%
 - **The Complete Web Developer Course 2.0** | Rob Percival ==> 33%
 - **CompTIA A+ Certification 901. The Total Course** | Mike Meyers ==> COMPLETED | 22/03/2017
