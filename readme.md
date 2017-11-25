@@ -4,13 +4,17 @@ A list of online courses and other resources helping me in becoming a Full-Stack
 
 You will also find links to some completed projects.
 
-## [Code Institute](/Code-Institute/ "View detailed info") 
+## [Code Institute](/Code-Institute/ "View detailed info")
 ### Diploma in Software Development - Full Stack Web Developer
 - **Stream 0** ==> COMPLETED 04/07/2017
 - **Stream 1: Front End Development** ==> COMPLETED 12/09/2017
   - **Stream 1 Project: [Examination AngularJS App](https://github.com/sebam2k4/stream1-project)** ==> COMPLETED 07/10/2017
 - **Stream 2: Back End Development** ==> IN PROGRESS
 - **Stream 3: Full Stack Development**
+
+
+## [FreeCodeCamp.org](/FreeCodeCamp/ "View detailed info")
+- **Front End Development Certification** ==> IN PROGRESS
 
 
 ## [Codecademy](/Codecademy/ "View projects and detailed info")
@@ -29,18 +33,9 @@ You will also find links to some completed projects.
 - **Python** ==> 21%
 - **Learn the Command Line** ==> 46%
 
-
-## Edx.org
-
-- **HTML5 Introduction** | W3Cx-HTML5.0x ==> COMPLETED | 5/2016
-- **HTML5 Part 1: HTML5 Coding Essentials and Best Practices** | W3Cx-HTML5.1x ==> COMPLETED | 07/2016
-- **HTML5 Part 2: Advanced Techniques for Designing HTML5 Apps** | W3Cx-HTML5.2x ==> COMPLETED | 08/2016
-- **CSS Introduction** | W3Cx-CSS.0x ==> COMPLETED | 12/2016
-
-
 ## [Udemy](/Udemy/ "View projects and detailed info")
 
-- **The Complete Web Developer Bootcamp** - Beginner to Expert | Robeen Dey ==> 91% 
+- **The Complete Web Developer Bootcamp - Beginner to Expert** | Robeen Dey ==> 91%
 - **The Complete Web Developer Course 2.0** | Rob Percival ==> 33%
 - **CompTIA A+ Certification 901. The Total Course** | Mike Meyers ==> COMPLETED | 22/03/2017
 - **CompTIA A+ Certification 902. The Total Course** | Mike Meyers ==> COMPLETED | 28/04/2017
@@ -57,15 +52,23 @@ You will also find links to some completed projects.
   - **Test Preparation** ==> COMPLETED | 16/08/2017
 - **CompTIA A+ 900 Series** ==> COMPLETED | 9/06/2017
 
-## [FreeCodeCamp.org](/FreeCodeCamp/ "View detailed info")
-- **Front End Development Certification** ==> IN PROGRESS
 
 ## [Scotch.io](/Scotch/ "View detailed info")
 - **Getting Started with AngularJS 1.x** ==> COMPLETED 1/11/2017
 
+
 ## [Traversy Media](/Traversy/ "View detailed info")
 - **JSON Crash Course** ==> COMPLETED | 09/11/17
 - **AJAX Crash Course** ==> COMPLETED | 09/11/17
+
+
+## Edx.org
+
+- **HTML5 Introduction** | W3Cx-HTML5.0x ==> COMPLETED | 5/2016
+- **HTML5 Part 1: HTML5 Coding Essentials and Best Practices** | W3Cx-HTML5.1x ==> COMPLETED | 07/2016
+- **HTML5 Part 2: Advanced Techniques for Designing HTML5 Apps** | W3Cx-HTML5.2x ==> COMPLETED | 08/2016
+- **CSS Introduction** | W3Cx-CSS.0x ==> COMPLETED | 12/2016
+
 
 ## Wesbos.com
 
