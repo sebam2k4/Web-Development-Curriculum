@@ -89,6 +89,7 @@ You will also find links to some completed projects.
 ## Certification
 
 ### Microsoft Technology Associate (MTA) Certified | 17/08/2017
+- Exam 98-361 passed 17/08/2017
 
 [![MTA Certified logo](https://s3-eu-west-1.amazonaws.com/sk-design/Certs/MTA_SoftDev_Blk_extra_small.png)](https://www.youracclaim.com/badges/3862e38e-72f0-4e64-a231-3cb1489c7815 "View MTA Certificate")
 
