@@ -60,6 +60,7 @@ You will also find links to some completed projects.
 ## [Traversy Media](/Traversy/ "View detailed info")
 - **JSON Crash Course** ==> COMPLETED | 09/11/17
 - **AJAX Crash Course** ==> COMPLETED | 09/11/17
+- **Angular 4 Crash Course** ==> COMPLETED | 27/11/17
 
 
 ## Edx.org

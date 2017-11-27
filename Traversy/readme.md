@@ -7,3 +7,7 @@
 ## Ajax Crash Course
 #### COMPLETED | 09/11/17
 [view code](/Traversy/ajax-crash-course "view code")
+
+## Angualar 4 Crash Course
+#### COMPLETED | 27/11/17
+[view code](/Traversy/angular-4-crash-course "view code")
