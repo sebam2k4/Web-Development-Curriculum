@@ -4,7 +4,7 @@
 #### IN PROGRESS
 * Introduction ==> COMPLETED | 28/11/2017
 * Setup & File Structure ==> COMPLETED 28/11/2017
-* Diving Into Components
+* Diving Into Components ==> COMPLETED 28/11/2017
 * Template Syntax
 * Events & Forms
 * Services & HTTP
