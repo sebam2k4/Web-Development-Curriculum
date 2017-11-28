@@ -85,3 +85,5 @@ testem.log
 # e2e
 /e2e/*.js
 /e2e/*.map
+
+/Traversy/angular-4-crash-course/a4app/node_modules
