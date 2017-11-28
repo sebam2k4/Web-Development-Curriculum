@@ -1,10 +1,23 @@
 # Udemy | [Visit my profile](https://www.udemy.com/user/sebastian-kulig/)
 
+## Angular 4 Front to Back | Traversy
+#### IN PROGRESS
+* Introduction ==> COMPLETED | 28/11/2017
+* Setup & File Structure ==> COMPLETED 28/11/2017
+* Diving Into Components
+* Template Syntax
+* Events & Forms
+* Services & HTTP
+* Angular Router
+* FAQ App Project
+* Client Panel Project - Part 1
+* Client Panel Project - Part 2
+
 ## The Complete Web Developer Course 2.0 | Rob Percival
 #### IN PROGRESS
-  * HTML5 ==> COMPLETED | 17/06/2017
-  * CSS3 ==> COMPLETED | 18/06/2017
-  * Javascript ==> IN PROGRESS
+* HTML5 ==> COMPLETED | 17/06/2017
+* CSS3 ==> COMPLETED | 18/06/2017
+* Javascript ==> IN PROGRESS
 
 ## The Complete Web Developer Bootcamp - Beginner to Expert | Robeen Dey
 #### ON HOLD - COURSE BEING UPDATED
