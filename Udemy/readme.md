@@ -5,7 +5,7 @@
 * Introduction ==> COMPLETED | 28/11/2017
 * Setup & File Structure ==> COMPLETED 28/11/2017
 * Diving Into Components ==> COMPLETED 28/11/2017
-* Template Syntax
+* Template Syntax ==> COMPLETED 02/12/2017
 * Events & Forms
 * Services & HTTP
 * Angular Router
