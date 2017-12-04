@@ -9,7 +9,8 @@ You will also find links to some completed projects.
 - **Stream 0** ==> COMPLETED 04/07/2017
 - **Stream 1: Front End Development** ==> COMPLETED 12/09/2017
   - **Stream 1 Project: [Examination AngularJS App](https://github.com/sebam2k4/stream1-project)** ==> COMPLETED 07/10/2017
-- **Stream 2: Back End Development** ==> IN PROGRESS
+- **Stream 2: Back End Development** ==> 22/11/2017
+  - **Stream 2 Project: Dashboard** ==> IN PROGRESS
 - **Stream 3: Full Stack Development**
 
 
