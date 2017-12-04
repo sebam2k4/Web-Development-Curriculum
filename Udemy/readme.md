@@ -6,7 +6,7 @@
 * Setup & File Structure ==> COMPLETED 28/11/2017
 * Diving Into Components ==> COMPLETED 28/11/2017
 * Template Syntax ==> COMPLETED 02/12/2017
-* Events & Forms
+* Events & Forms ==> COMPLETED 04/12/2017
 * Services & HTTP
 * Angular Router
 * FAQ App Project
