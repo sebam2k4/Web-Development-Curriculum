@@ -37,6 +37,7 @@ You will also find links to some completed projects.
 
 ## [Udemy](/Udemy/ "View projects and detailed info")
 - **Angular 4 Front to Back** | Traversy ==> 47%
+- **JavaScript: Understanding the Weird Parts** | Anthony Alicea ==> 10%
 - **The Complete Web Developer Bootcamp - Beginner to Expert** | Robeen Dey ==> 91%
 - **The Complete Web Developer Course 2.0** | Rob Percival ==> 33%
 - **CompTIA A+ Certification 901. The Total Course** | Mike Meyers ==> COMPLETED | 22/03/2017
@@ -60,9 +61,9 @@ You will also find links to some completed projects.
 
 
 ## [Traversy Media](/Traversy/ "View detailed info")
+- **Angular 4 Crash Course** ==> COMPLETED | 27/11/17
 - **JSON Crash Course** ==> COMPLETED | 09/11/17
 - **AJAX Crash Course** ==> COMPLETED | 09/11/17
-- **Angular 4 Crash Course** ==> COMPLETED | 27/11/17
 
 
 ## Edx.org

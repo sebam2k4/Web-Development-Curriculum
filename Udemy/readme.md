@@ -13,6 +13,18 @@
 * Client Panel Project - Part 1
 * Client Panel Project - Part 2
 
+## JavaScript: Understanding the Weird Parts | Anthony Alicea
+### IN PROGRESS
+* Getting Started ==> COMPLETED | 10/10/2017
+* Execution Contexts and Lexical Environments ==> IN PROGRESS
+  * Coceptual Aside: Syntax Parsers, Execution Contexts, and Lexical Environments
+  * Coceptual Aside: Name/Value Pairs and Objects
+  * The Global Environment and the Global Scope
+  * The Execution Context - Creation and Hoisting
+  * Conceptual Aside: JavaScript and 'undefined'
+  * The Execution Context - Code Execution
+  * Conceptual Aside: Single Threaded, Synchronous Execution
+
 ## The Complete Web Developer Course 2.0 | Rob Percival
 #### IN PROGRESS
 * HTML5 ==> COMPLETED | 17/06/2017
