@@ -36,7 +36,7 @@ You will also find links to some completed projects.
 - **Learn the Command Line** ==> 46%
 
 ## [Udemy](/Udemy/ "View projects and detailed info")
-- **Angular 4 Front to Back** | Traversy ==> 53%
+- **Angular 4 Front to Back** | Traversy ==> 58%
 - **JavaScript: Understanding the Weird Parts** | Anthony Alicea ==> 16%
 - **The Complete Web Developer Bootcamp - Beginner to Expert** | Robeen Dey ==> 91%
 - **The Complete Web Developer Course 2.0** | Rob Percival ==> 33%

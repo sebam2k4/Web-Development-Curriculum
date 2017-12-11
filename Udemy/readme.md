@@ -18,14 +18,16 @@
   * ngModel & 2 Way Data Binding
   * Form Submission
   * Template Driven Forms & Validation
-* Services & HTTP ==> IN PROGRESS
+* Services & HTTP ==> COMPLETED 11/12/2017
   * Creating a Service
   * Working With Observables
   * HTTP Module GET
   * HTTP Module POST
   * HTTP Module DELETE
   * HTTP Module PUT
-* Angular Router
+* Angular Router ==> IN PROGRESS
+  * Working with Routes
+  * Params & ActivatedRoute
 * FAQ App Project
 * Client Panel Project - Part 1
 * Client Panel Project - Part 2
