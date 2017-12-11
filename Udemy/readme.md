@@ -6,8 +6,25 @@
 * Setup & File Structure ==> COMPLETED 28/11/2017
 * Diving Into Components ==> COMPLETED 28/11/2017
 * Template Syntax ==> COMPLETED 02/12/2017
+  * ngFor Directive
+  * Conditionals with ngIf & ngSwitch Directives
+  * Property Binding
+  * Class & ngClass
+  * Style & ngStyle
+  * Using Pipes
 * Events & Forms ==> COMPLETED 04/12/2017
-* Services & HTTP
+  * Mouse Events
+  * Keyboard & Input Events
+  * ngModel & 2 Way Data Binding
+  * Form Submission
+  * Template Driven Forms & Validation
+* Services & HTTP ==> IN PROGRESS
+  * Creating a Service
+  * Working With Observables
+  * HTTP Module GET
+  * HTTP Module POST
+  * HTTP Module DELETE
+  * HTTP Module PUT
 * Angular Router
 * FAQ App Project
 * Client Panel Project - Part 1

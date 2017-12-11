@@ -36,8 +36,8 @@ You will also find links to some completed projects.
 - **Learn the Command Line** ==> 46%
 
 ## [Udemy](/Udemy/ "View projects and detailed info")
-- **Angular 4 Front to Back** | Traversy ==> 47%
-- **JavaScript: Understanding the Weird Parts** | Anthony Alicea ==> 10%
+- **Angular 4 Front to Back** | Traversy ==> 53%
+- **JavaScript: Understanding the Weird Parts** | Anthony Alicea ==> 16%
 - **The Complete Web Developer Bootcamp - Beginner to Expert** | Robeen Dey ==> 91%
 - **The Complete Web Developer Course 2.0** | Rob Percival ==> 33%
 - **CompTIA A+ Certification 901. The Total Course** | Mike Meyers ==> COMPLETED | 22/03/2017
