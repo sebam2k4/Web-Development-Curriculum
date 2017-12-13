@@ -25,10 +25,10 @@
   * HTTP Module POST
   * HTTP Module DELETE
   * HTTP Module PUT
-* Angular Router ==> IN PROGRESS
-  * Working with Routes
+* Angular Router
+  * Working with Routes ==> COMPLETED 13/12/2017
   * Params & ActivatedRoute
-* FAQ App Project
+* FAQ App Project ==> IN PROGRESS
 * Client Panel Project - Part 1
 * Client Panel Project - Part 2
 
