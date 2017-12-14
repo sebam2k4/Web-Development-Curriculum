@@ -43,6 +43,9 @@
   * Conceptual Aside: JavaScript and 'undefined'
   * The Execution Context - Code Execution
   * Conceptual Aside: Single Threaded, Synchronous Execution
+  * Function Invocation and the Execution Stack
+  * Functions, Context, and Variable Environments
+  * The Scope Chain
 
 ## The Complete Web Developer Course 2.0 | Rob Percival
 #### IN PROGRESS
