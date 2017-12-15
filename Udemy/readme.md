@@ -28,8 +28,12 @@
 * Angular Router
   * Working with Routes ==> COMPLETED 13/12/2017
   * Params & ActivatedRoute
-* FAQ App Project ==> IN PROGRESS
-* Client Panel Project - Part 1
+* FAQ App Project ==> COMPLETED 15/12/2017
+  * Nesting Components & Input
+  * Emitting Output From Components
+  * Using Local Storage in the Service
+  * Deploying Angular 4 App
+* Client Panel Project - Part 1 ==> IN PROGRESS
 * Client Panel Project - Part 2
 
 ## JavaScript: Understanding the Weird Parts | Anthony Alicea
