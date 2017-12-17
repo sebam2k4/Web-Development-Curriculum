@@ -3,71 +3,78 @@
 ## Full Stack Web Developer - Mentored Online Programme
 #### Diploma in Software Development - Level 6 (Level 5 EQF)
 #### IN PROGRESS
-- **Stream 0: Intro** => COMPLETED 04/07/2017
-  - **HTML**
-  - **CSS**
-  - **Scratch**
-  - **Javascript**
-  - **Git and GitHub**
-  - **Python**
-- **Stream 1: Front End Development**
-  - **Setting up Git** ==> COMPLETED | 27/07/2017
-  - **Reopening the Box Model** ==> COMPLETED | 26/07/2017
-  - **Reopening the Box Model 2** ==> COMPLETED | 26/07/2017
-  - **Positioning & CSS** ==> COMPLETED | 28/07/2017
-  - **Media** ==> COMPLETED | 29/07/2017
-  - **Gradients, Transforms, & Transitions** ==> COMPLETED | 02/08/2017
-  - **Navbar - CSS Selectors** ==> COMPLETED | 03/08/2017
-  - **Flexbox** ==> COMPLETED | 04/08/2017
-  - **Semantic Web & Font** ==> COMPLETED | 06/08/2017
-  - **User Experience Desing** ==> COMPLETED | 09/08/2017
-  - **Balsamiq** ==> COMPLETED | 10/08/2017
-  - **Forms** ==> COMPLETED | 10/08/2017
-  - **Bootstrap** ==> COMPLETED | 11/08/2017
-  - **Bootstrap Nav Elements** ==> COMPLETED | 11/07/2017
-  - **Bootstrap Responsive Design** ==> COMPLETED | 13/07/2017
-  - **JavaScript Revisited** ==> COMPLETED | 22/08/2017
-  - **jQuery** ==> COMPLETED | 24/08/2017
-  - **jQuery Events** ==> COMPLETED | 24/08/2017
-  - **jQuery: Traversing MT.DOM** ==> COMPLETED | 25/08/2017
-  - **JavaScript Part 2** ==> COMPLETED | 31/08/2017
-  - **Testing in JavaScript**  ==> COMPLETED | 01/09/2017
-  - **Troubleshooting Tips** ==> COMPLETED | 02/09/2017
-  - **AngularJS** ==> COMPLETED | 08/09/2017
-  - [**STREAM 1 PROJECT - Examination Application**](https://github.com/sebam2k4/stream1-project) ==> COMPLETED 07/10/2017
-- **Stream 2: Back End Development**
-  - **Installing Python** ==> COMPLETED | 30/09/2017
-  - **Installing Pycharm** ==> COMPLETED | 1/10/2017
-  - **Testing** ==> COMPLETED | 09/10/2017
-  - **Version Control** ==> COMPLETED | 12/10/2017
-  - **Boggle Solver Part 1** ==> COMPLETED | 14/10/2017
-  - **Boggle Solver Part 2** ==> COMPLETED | 14/10/207
-  - **File IO and Exceptions** ==> COMPLETED | 15/10/2017
-  - **Conway's Game of Life** ==> COMPLETED | 15/10/2017
-  - **Classes - Intro** ==> COMPLETED | 16/10/2017
-  - **Database Fundamentals** ==> COMPLETED | 16/10/2017
-  - **Install MySQL and MySQL Workbench** ==> COMPLETED | 17/10/2017
-  - **MySQL Database Creation** ==> COMPLETED | 17/10/2017
-  - **Data Creation and Modification** ==> COMPLETED | 17/10/2017
-  - **Data Selection Queries part 1** ==> COMPLETED | 18/10/2017
-  - **Data Selection Queries part 2** ==> COMPLETED | 18/10/2017
-  - **Using Python with MySQL part 1** ==> COMPLETED | 20/10/2017
-  - **Using Python with MySQL part 2** ==> COMPLETED | 24/10/2017
-  - **Using Python with MySQL part 3** ==> COMPLETED | 24/10/2017
-  - **Twitter API Setup and Trends** ==> COMPLETED | 24/10/2017
-  - **Twitter API - Tweets Part 1** ==> COMPLETED | 25/10/2017
-  - **Visualizing with Matplotlib** ==> COMPLETED | 26/10/2017
-  - **Twitter API - Tweets Part 2** ==> COMPLETED | 27/10/2017
-  - **Twitter Streams 1** ==> COMPLETED | 27/10/2017
-  - **Twitter Streams 2** ==> COMPLETED | 27/10/2017
-  - **Introduction To MongoDB** ==> COMPLETED | 01/11/2017
-  - **Web Scraping** ==> COMPLETED | 01/11/2017
-  - **Data Visualization & D3** ==> COMPLETED | 01/11/2017
-  - **D3 & Data** ==> COMPLETED | 02/11/2017
-  - **D3 Scales** ==> COMPLETED | 02/11/2017
-  - **D3 Axes & External Files** ==> COMPLETED | 03/11/2017
-  - **Dimensional Charting with D3.js, DC.js, and Crossfilter.js** ==> COMPLETED | 04/11/2017
-  - **Flask** ==> COMPLETED | 04/11/2017
-  - **Creating a Data Dashboard**
-  - **Troubleshooting Tips**  ==> COMPLETED | 04/11/2017
-  - **STREAM 2 PROJECT**
+
+### **Stream 0: Intro** => COMPLETED 04/07/2017
+- **HTML**
+- **CSS**
+- **Scratch**
+- **Javascript**
+- **Git and GitHub**
+- **Python**
+
+### **Stream 1: Front End Development**
+- **Setting up Git** ==> COMPLETED | 27/07/2017
+- **Reopening the Box Model** ==> COMPLETED | 26/07/2017
+- **Reopening the Box Model 2** ==> COMPLETED | 26/07/2017
+- **Positioning & CSS** ==> COMPLETED | 28/07/2017
+- **Media** ==> COMPLETED | 29/07/2017
+- **Gradients, Transforms, & Transitions** ==> COMPLETED | 02/08/2017
+- **Navbar - CSS Selectors** ==> COMPLETED | 03/08/2017
+- **Flexbox** ==> COMPLETED | 04/08/2017
+- **Semantic Web & Font** ==> COMPLETED | 06/08/2017
+- **User Experience Desing** ==> COMPLETED | 09/08/2017
+- **Balsamiq** ==> COMPLETED | 10/08/2017
+- **Forms** ==> COMPLETED | 10/08/2017
+- **Bootstrap** ==> COMPLETED | 11/08/2017
+- **Bootstrap Nav Elements** ==> COMPLETED | 11/07/2017
+- **Bootstrap Responsive Design** ==> COMPLETED | 13/07/2017
+- **JavaScript Revisited** ==> COMPLETED | 22/08/2017
+- **jQuery** ==> COMPLETED | 24/08/2017
+- **jQuery Events** ==> COMPLETED | 24/08/2017
+- **jQuery: Traversing MT.DOM** ==> COMPLETED | 25/08/2017
+- **JavaScript Part 2** ==> COMPLETED | 31/08/2017
+- **Testing in JavaScript**  ==> COMPLETED | 01/09/2017
+- **Troubleshooting Tips** ==> COMPLETED | 02/09/2017
+- **AngularJS** ==> COMPLETED | 08/09/2017
+- [**STREAM 1 PROJECT - Examination Application**](https://github.com/sebam2k4/stream1-project) ==> COMPLETED 07/10/2017
+
+### **Stream 2: Back End Development**
+- **Installing Python** ==> COMPLETED | 30/09/2017
+- **Installing Pycharm** ==> COMPLETED | 1/10/2017
+- **Testing** ==> COMPLETED | 09/10/2017
+- **Version Control** ==> COMPLETED | 12/10/2017
+- **Boggle Solver Part 1** ==> COMPLETED | 14/10/2017
+- **Boggle Solver Part 2** ==> COMPLETED | 14/10/207
+- **File IO and Exceptions** ==> COMPLETED | 15/10/2017
+- **Conway's Game of Life** ==> COMPLETED | 15/10/2017
+- **Classes - Intro** ==> COMPLETED | 16/10/2017
+- **Database Fundamentals** ==> COMPLETED | 16/10/2017
+- **Install MySQL and MySQL Workbench** ==> COMPLETED | 17/10/2017
+- **MySQL Database Creation** ==> COMPLETED | 17/10/2017
+- **Data Creation and Modification** ==> COMPLETED | 17/10/2017
+- **Data Selection Queries part 1** ==> COMPLETED | 18/10/2017
+- **Data Selection Queries part 2** ==> COMPLETED | 18/10/2017
+- **Using Python with MySQL part 1** ==> COMPLETED | 20/10/2017
+- **Using Python with MySQL part 2** ==> COMPLETED | 24/10/2017
+- **Using Python with MySQL part 3** ==> COMPLETED | 24/10/2017
+- **Twitter API Setup and Trends** ==> COMPLETED | 24/10/2017
+- **Twitter API - Tweets Part 1** ==> COMPLETED | 25/10/2017
+- **Visualizing with Matplotlib** ==> COMPLETED | 26/10/2017
+- **Twitter API - Tweets Part 2** ==> COMPLETED | 27/10/2017
+- **Twitter Streams 1** ==> COMPLETED | 27/10/2017
+- **Twitter Streams 2** ==> COMPLETED | 27/10/2017
+- **Introduction To MongoDB** ==> COMPLETED | 01/11/2017
+- **Web Scraping** ==> COMPLETED | 01/11/2017
+- **Data Visualization & D3** ==> COMPLETED | 01/11/2017
+- **D3 & Data** ==> COMPLETED | 02/11/2017
+- **D3 Scales** ==> COMPLETED | 02/11/2017
+- **D3 Axes & External Files** ==> COMPLETED | 03/11/2017
+- **Dimensional Charting with D3.js, DC.js, and Crossfilter.js** ==> COMPLETED | 04/11/2017
+- **Flask** ==> COMPLETED | 14/11/2017
+- **Creating a Data Dashboard** ==> COMPLETED | 18/11/2017
+- **Troubleshooting Tips** ==> COMPLETED | 04/11/2017
+- **STREAM 2 PROJECT** ==> IN PROGRESS
+
+### **STREAM 3: Full Stack Development**
+- **Hello Django - Installation & Setup** ==> COMPLETED | 17/12/2017
+- **Hello Django - Templates**

@@ -11,7 +11,7 @@ You will also find links to some completed projects.
   - **Stream 1 Project: [Examination AngularJS App](https://github.com/sebam2k4/stream1-project)** ==> COMPLETED 07/10/2017
 - **Stream 2: Back End Development** ==> 22/11/2017
   - **Stream 2 Project: Dashboard** ==> IN PROGRESS
-- **Stream 3: Full Stack Development**
+- **Stream 3: Full Stack Development** ==> IN PROGRESS
 
 
 ## [FreeCodeCamp.org](/FreeCodeCamp/ "View detailed info")
