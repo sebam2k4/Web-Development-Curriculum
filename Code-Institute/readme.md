@@ -77,4 +77,5 @@
 
 ### **STREAM 3: Full Stack Development**
 - **Hello Django - Installation & Setup** ==> COMPLETED | 17/12/2017
-- **Hello Django - Templates**
+- **Hello Django - Templates** ==> COMPLETED | 17/12/2017
+- **Hello Django - Models**

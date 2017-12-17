@@ -34,6 +34,7 @@
   * Using Local Storage in the Service
   * Deploying Angular 4 App
 * Client Panel Project - Part 1 ==> IN PROGRESS
+  * Firebase & App Setup
 * Client Panel Project - Part 2
 
 ## JavaScript: Understanding the Weird Parts | Anthony Alicea
