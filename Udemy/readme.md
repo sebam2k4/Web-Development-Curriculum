@@ -37,6 +37,7 @@
   * Firebase & App Setup
   * AngularFire2 Setup & Client Service
   * Clients Table Components
+  * Add Client Form & Validation
 * Client Panel Project - Part 2
 
 ## JavaScript: Understanding the Weird Parts | Anthony Alicea
