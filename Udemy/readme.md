@@ -35,6 +35,8 @@
   * Deploying Angular 4 App
 * Client Panel Project - Part 1 ==> IN PROGRESS
   * Firebase & App Setup
+  * AngularFire2 Setup & Client Service
+  * Clients Table Components
 * Client Panel Project - Part 2
 
 ## JavaScript: Understanding the Weird Parts | Anthony Alicea
