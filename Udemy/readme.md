@@ -33,12 +33,15 @@
   * Emitting Output From Components
   * Using Local Storage in the Service
   * Deploying Angular 4 App
-* Client Panel Project - Part 1 ==> IN PROGRESS
+* Client Panel Project - Part 1 ==> COMPLETED 31/12/2017
   * Firebase & App Setup
   * AngularFire2 Setup & Client Service
   * Clients Table Components
   * Add Client Form & Validation
-* Client Panel Project - Part 2
+  * Add Client to Firebase
+  * Client Details Component
+* Client Panel Project - Part 2 ==> IN PROGRESS
+  * Client Balance Update
 
 ## JavaScript: Understanding the Weird Parts | Anthony Alicea
 ### IN PROGRESS
