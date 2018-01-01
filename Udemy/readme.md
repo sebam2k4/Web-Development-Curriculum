@@ -42,6 +42,7 @@
   * Client Details Component
 * Client Panel Project - Part 2 ==> IN PROGRESS
   * Client Balance Update
+  * Edit & Delete Clients
 
 ## JavaScript: Understanding the Weird Parts | Anthony Alicea
 ### IN PROGRESS
