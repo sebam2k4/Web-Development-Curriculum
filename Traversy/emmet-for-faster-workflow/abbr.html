@@ -1,0 +1,254 @@
+<!-- BASIC TAGS, CLASSES & IDS -->
+
+<!-- div -->
+<div></div>
+
+<!-- h1 -->
+<h1></h1>
+
+<!-- Common Shortcuts bq hdr ftr btn -->
+<blockquote></blockquote>
+<header></header>
+<footer></footer>
+<button></button>
+
+<!-- h1.myheading -->
+<h1 class="myheading"></h1>
+
+<!-- div.myclass OR .myclass -->
+<div class="myclass"></div>
+
+<!-- .class1.class2 -->
+<div class="class1 class2"></div>
+
+<!-- div#myid or #myid -->
+<div id="myid"></div>
+
+<!-- #myid.myclass -->
+<div id="myid" class="myclass"></div>
+
+
+
+<!-- ADDING CONTENT {} -->
+
+<!-- h1{My Title} -->
+<h1>My Title</h1>
+
+<!-- h1.red{My Red Title} -->
+<div class="h1 red">My Red Title</div>
+
+
+
+<!-- NESTING > -->
+
+<!-- div>ul>li -->
+<div>
+  <ul>
+    <li></li>
+  </ul>
+</div>
+
+<!-- div>ul>li{List Item 1} -->
+<div>
+  <ul>
+    <li>List Item 1</li>
+  </ul>
+</div>
+
+
+
+<!-- MULTIPLICATION * -->
+
+<!-- div>ul#navigation>li*5>{List Item 1} -->
+<div>
+  <ul id="navigation">
+    <li>List Item 1</li>
+    <li>List Item 1</li>
+    <li>List Item 1</li>
+    <li>List Item 1</li>
+    <li>List Item 1</li>
+  </ul>
+</div>
+
+<!-- ul#navigation>li*5>{List Item $} -->
+<ul id="navigation">
+  <li>List Item 1</li>
+  <li>List Item 2</li>
+  <li>List Item 3</li>
+  <li>List Item 4</li>
+  <li>List Item 5</li>
+</ul>  
+
+<!-- div#navigation>ul>li.link-$*5>{Link $} -->
+<div id="navigation">
+  <ul>
+    <li class="link-1">Link 1</li>
+    <li class="link-2">Link 2</li>
+    <li class="link-3">Link 3</li>
+  </ul>
+</div>
+
+
+
+<!-- SIBLINGS + -->
+
+<!-- div+ul+li -->
+<div></div>
+<ul></ul>
+<li></li>
+
+<!-- h1.title+p.body -->
+<h1 class="title"></h1>
+<p class="body"></p>
+
+<!-- div>h1.title+p.body -->
+<div>
+  <h1 class="title"></h1>
+  <p class="article"></p>
+</div>
+
+
+
+
+<!-- GROUPIONG () -->
+
+<!-- div>(header>ul>li*2>a)+footer>p -->
+<div>
+  <header>
+    <ul>
+      <li><a href=""></a></li>
+      <li><a href=""></a></li>
+    </ul>
+  </header>
+  <footer>
+    <p></p>
+  </footer>
+</div>
+
+<!-- body>(header>ul>li*2>a)+(main>p)+(footer>p) -->
+<body>
+  <header>
+    <ul>
+      <li><a href=""></a></li>
+      <li><a href=""></a></li>
+    </ul>
+  </header>
+  <main>
+    <p></p>
+  </main>
+  <footer>
+    <p></p>
+  </footer>
+</body>
+
+
+
+<!-- ATTRIBUTES -->
+<a href=""></a>
+
+<!-- a[href="http://google.com" target="_blank"] -->
+<a href="http://google.com" target="_blank" title="Google"></a>
+
+
+
+
+<!-- FORMS & INPUT -->
+
+<!-- form -->
+<form action=""></form>
+
+<!-- form:get -->
+<form action="" method="get"></form>
+
+<!-- form:post -->
+<form action="" method="post"></form>
+
+<!-- label -->
+<label for=""></label>
+
+<!-- input -->
+<input type="text">
+
+<!-- inp -->
+<input type="text" name="" id="">
+
+<!-- input:email -->
+<input type="email" name="" id="">
+
+<!-- input:s -->
+<input type="submit" value="">
+
+<!-- select -->
+<select name="" id=""></select>
+
+
+
+
+<!-- EXTENDED STRUCTURE + doesn't work here in vscode -->
+
+<!-- select+ -->
+
+<!-- table+ -->
+
+<!-- ol+ -->
+
+<!-- ul+ -->
+
+
+
+
+<!-- CUSTOM ALIASES edit snippets.json file -->
+
+<!-- post -->
+
+
+
+
+<!-- DOCTYPE AND STRUCTURE -->
+
+<!-- ! -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
+
+<!-- html:5 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
+
+<!-- html:4t doesn't work in vscode -->
+
+
+
+<!-- LOREM IPSUM GENERATOR -->
+
+<!-- lorem -->
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint, explicabo mollitia. Velit voluptatem unde harum doloremque voluptatum. Placeat, similique! Nobis, quo. Dolore quas amet unde placeat voluptatem eaque repellendus dolorem.
+<!-- lorem10 -->
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, placeat!
+<!-- ul.mylist>lorem10.item*4 -->
+<ul class="mylist">
+  <li class="item">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, ipsam!</li>
+  <li class="item">Reprehenderit accusamus delectus vero fugiat. Et delectus repellat neque impedit?</li>
+  <li class="item">Iste quaerat, quibusdam facilis labore cum similique ut esse nobis.</li>
+  <li class="item">A facere fugit, ea dolorem labore explicabo esse culpa itaque?</li>
+</ul>
+
