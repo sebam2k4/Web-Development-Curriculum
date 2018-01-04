@@ -1,5 +1,10 @@
 # Udemy | [Visit my profile](https://www.udemy.com/user/sebastian-kulig/)
 
+## Modern JavaScript From the Beginning | Traversy
+#### IN PROGRESS
+* JavaScript Language Fundamentals ==> IN PROGRESS
+* DOM Manipulation & Events
+
 ## Angular 4 Front to Back | Traversy
 #### IN PROGRESS
 * Introduction ==> COMPLETED | 28/11/2017
