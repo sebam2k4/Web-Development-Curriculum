@@ -2,8 +2,8 @@
 
 ## Modern JavaScript From the Beginning | Traversy
 #### IN PROGRESS
-* JavaScript Language Fundamentals ==> IN PROGRESS
-* DOM Manipulation & Events
+* JavaScript Language Fundamentals ==> COMPLETED 05/01/2017
+* DOM Manipulation & Events ==> IN PROGRESS
 
 ## Angular 4 Front to Back | Traversy
 #### IN PROGRESS
