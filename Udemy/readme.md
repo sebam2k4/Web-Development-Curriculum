@@ -4,6 +4,9 @@
 #### IN PROGRESS
 * JavaScript Language Fundamentals ==> COMPLETED 05/01/2017
 * DOM Manipulation & Events ==> IN PROGRESS
+  * Document Object Model (DOM)
+  * DOM Selectors For Single Elements
+  * DOM Selectors for Multiple Elements
 
 ## Angular 4 Front to Back | Traversy
 #### IN PROGRESS
