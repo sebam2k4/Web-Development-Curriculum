@@ -7,6 +7,7 @@
   * Document Object Model (DOM)
   * DOM Selectors For Single Elements
   * DOM Selectors for Multiple Elements
+  * Traversing the DOM
 
 ## Angular 4 Front to Back | Traversy
 #### IN PROGRESS
