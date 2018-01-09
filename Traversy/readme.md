@@ -15,3 +15,6 @@
 ## Emmet For Faster HTML & CSS Workflow
 #### COMPLETED | 02/01/2018
 [view code](/Traversy/emmet-for-faster-workflow "view code")
+
+## Basic cURL Tutorial
+#### COMPLETED | 09/01/2018

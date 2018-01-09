@@ -62,6 +62,7 @@ You will also find links to some completed projects.
 
 
 ## [Traversy Media](/Traversy/ "View detailed info")
+- **Basic cURL Tutorial** ==> COMPLETED | 09/01/2018
 - **Emmet For Faster HTML & CSS Workflow** ==> COMPLETED | 02/01/2018
 - **Angular 4 Crash Course** ==> COMPLETED | 27/11/17
 - **JSON Crash Course** ==> COMPLETED | 09/11/17
