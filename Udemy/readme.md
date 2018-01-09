@@ -8,6 +8,9 @@
   * DOM Selectors For Single Elements
   * DOM Selectors for Multiple Elements
   * Traversing the DOM
+  * Creating Elements
+  * Removing & Replacing Elements
+  * Event Listeners & the Event Object
 
 ## Angular 4 Front to Back | Traversy
 #### IN PROGRESS
