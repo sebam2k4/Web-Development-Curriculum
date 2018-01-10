@@ -3,7 +3,7 @@
 ## Modern JavaScript From the Beginning | Traversy
 #### IN PROGRESS
 * JavaScript Language Fundamentals ==> COMPLETED 05/01/2017
-* DOM Manipulation & Events ==> IN PROGRESS
+* DOM Manipulation & Events ==> COMPLETED 10/01/2017
   * Document Object Model (DOM)
   * DOM Selectors For Single Elements
   * DOM Selectors for Multiple Elements
@@ -14,6 +14,8 @@
   * Mouse Events
   * Keyboard & Input Events
   * Event Bubbling & Delegation
+  * Local & Session Storage
+* DOM Projects ==> IN PROGRESS
 
 ## Angular 4 Front to Back | Traversy
 #### IN PROGRESS
