@@ -11,6 +11,9 @@
   * Creating Elements
   * Removing & Replacing Elements
   * Event Listeners & the Event Object
+  * Mouse Events
+  * Keyboard & Input Events
+  * Event Bubbling & Delegation
 
 ## Angular 4 Front to Back | Traversy
 #### IN PROGRESS

@@ -36,7 +36,7 @@ You will also find links to some completed projects.
 - **Learn the Command Line** ==> 46%
 
 ## [Udemy](/Udemy/ "View projects and detailed info")
-- **Modern JavaScript From the Beginning | Traversy ==> 24%
+- **Modern JavaScript From the Beginning | Traversy ==> 27%
 - **Angular 4 Front to Back** | Traversy ==> 87%
 - **JavaScript: Understanding the Weird Parts** | Anthony Alicea ==> 18%
 - **The Complete Web Developer Bootcamp - Beginner to Expert** | Robeen Dey ==> 91%
