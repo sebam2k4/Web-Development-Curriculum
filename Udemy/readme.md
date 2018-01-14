@@ -16,6 +16,9 @@
   * Event Bubbling & Delegation
   * Local & Session Storage
 * DOM Projects ==> IN PROGRESS
+  * Task List
+  * Loan Calculator
+  * Number Guesser
 
 ## Angular 4 Front to Back | Traversy
 #### IN PROGRESS
