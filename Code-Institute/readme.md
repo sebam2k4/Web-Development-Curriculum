@@ -78,4 +78,10 @@
 ### **STREAM 3: Full Stack Development**
 - **Hello Django - Installation & Setup** ==> COMPLETED | 17/12/2017
 - **Hello Django - Templates** ==> COMPLETED | 17/12/2017
-- **Hello Django - Models**
+- **Hello Django - Models** ==> COMPLETED | 12/01/2018
+- **Hello Django - Administration** ==> COMPLETED | 13/01/2018
+- **Django Blog - Part 1** ==> COMPLETED | 14/01/2018
+- **Django Blog - Part 2** ==> COMPLETED | 14/01/2018
+- **Django Blog - Part 3 - Blog Detail Page** ==> COMPLETED | 15/01/2018
+- **Django Blog - Part 4 - Blog Popularity** ==> COMPLETED | 15/01/2018
+- **Django Blog - Part 5 - Forms & Images** ==> COMPLETED | 15/01/2018
