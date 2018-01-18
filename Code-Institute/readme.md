@@ -85,3 +85,10 @@
 - **Django Blog - Part 3 - Blog Detail Page** ==> COMPLETED | 15/01/2018
 - **Django Blog - Part 4 - Blog Popularity** ==> COMPLETED | 15/01/2018
 - **Django Blog - Part 5 - Forms & Images** ==> COMPLETED | 15/01/2018
+- **Custom User & Email Authentication** ==> COMPLETED | 16/01/2018
+- **Flatpages** ==> COMPLETED | 17/01/2018
+
+### Full Stack Frameworks with Django (optional new platform)
+- **Beginning Django**
+  - Hello Django (URLs, Templates, Admin, Models, ToDo App) ==> COMPLETED | 17/01/2018
+  - Testing Django
