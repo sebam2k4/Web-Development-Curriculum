@@ -2,43 +2,28 @@
 
 ## Full Stack Web Developer - Mentored Online Programme
 #### Diploma in Software Development - Level 6 NFQ
+#### STARTED: 26/07/2017
 #### IN PROGRESS
 
-### **Stream 0: Intro** => COMPLETED 04/07/2017
-- **HTML**
-- **CSS**
-- **Scratch**
-- **Javascript**
-- **Git and GitHub**
-- **Python**
+### **Full Stack Frameworks with Django** (optional new platform)
+- **Beginning Django**
+  - Hello Django (URLs, Templates, Admin, Models, ToDo App) ==> COMPLETED | 17/01/2018
+  - Testing Django
 
-### **Stream 1: Front End Development**
-- **Setting up Git** ==> COMPLETED | 27/07/2017
-- **Reopening the Box Model** ==> COMPLETED | 26/07/2017
-- **Reopening the Box Model 2** ==> COMPLETED | 26/07/2017
-- **Positioning & CSS** ==> COMPLETED | 28/07/2017
-- **Media** ==> COMPLETED | 29/07/2017
-- **Gradients, Transforms, & Transitions** ==> COMPLETED | 02/08/2017
-- **Navbar - CSS Selectors** ==> COMPLETED | 03/08/2017
-- **Flexbox** ==> COMPLETED | 04/08/2017
-- **Semantic Web & Font** ==> COMPLETED | 06/08/2017
-- **User Experience Desing** ==> COMPLETED | 09/08/2017
-- **Balsamiq** ==> COMPLETED | 10/08/2017
-- **Forms** ==> COMPLETED | 10/08/2017
-- **Bootstrap** ==> COMPLETED | 11/08/2017
-- **Bootstrap Nav Elements** ==> COMPLETED | 11/07/2017
-- **Bootstrap Responsive Design** ==> COMPLETED | 13/07/2017
-- **JavaScript Revisited** ==> COMPLETED | 22/08/2017
-- **jQuery** ==> COMPLETED | 24/08/2017
-- **jQuery Events** ==> COMPLETED | 24/08/2017
-- **jQuery: Traversing MT.DOM** ==> COMPLETED | 25/08/2017
-- **JavaScript Part 2** ==> COMPLETED | 31/08/2017
-- **Testing in JavaScript**  ==> COMPLETED | 01/09/2017
-- **Troubleshooting Tips** ==> COMPLETED | 02/09/2017
-- **AngularJS** ==> COMPLETED | 08/09/2017
-- [**STREAM 1 PROJECT - Examination Application**](https://github.com/sebam2k4/stream1-project) ==> COMPLETED 07/10/2017
+### **STREAM 3: Full Stack Development**
+- **Hello Django - Installation & Setup** ==> COMPLETED | 17/12/2017
+- **Hello Django - Templates** ==> COMPLETED | 17/12/2017
+- **Hello Django - Models** ==> COMPLETED | 12/01/2018
+- **Hello Django - Administration** ==> COMPLETED | 13/01/2018
+- **Django Blog - Part 1** ==> COMPLETED | 14/01/2018
+- **Django Blog - Part 2** ==> COMPLETED | 14/01/2018
+- **Django Blog - Part 3 - Blog Detail Page** ==> COMPLETED | 15/01/2018
+- **Django Blog - Part 4 - Blog Popularity** ==> COMPLETED | 15/01/2018
+- **Django Blog - Part 5 - Forms & Images** ==> COMPLETED | 15/01/2018
+- **Custom User & Email Authentication** ==> COMPLETED | 16/01/2018
+- **Flatpages** ==> COMPLETED | 17/01/2018
 
-### **Stream 2: Back End Development**
+### **STREAM 2: Back End Development**
 - **Installing Python** ==> COMPLETED | 30/09/2017
 - **Installing Pycharm** (used VSCode instead) ==> COMPLETED | 1/10/2017
 - **Testing** ==> COMPLETED | 09/10/2017
@@ -75,20 +60,36 @@
 - **Troubleshooting Tips** ==> COMPLETED | 04/11/2017
 - **STREAM 2 PROJECT** ==> IN PROGRESS
 
-### **STREAM 3: Full Stack Development**
-- **Hello Django - Installation & Setup** ==> COMPLETED | 17/12/2017
-- **Hello Django - Templates** ==> COMPLETED | 17/12/2017
-- **Hello Django - Models** ==> COMPLETED | 12/01/2018
-- **Hello Django - Administration** ==> COMPLETED | 13/01/2018
-- **Django Blog - Part 1** ==> COMPLETED | 14/01/2018
-- **Django Blog - Part 2** ==> COMPLETED | 14/01/2018
-- **Django Blog - Part 3 - Blog Detail Page** ==> COMPLETED | 15/01/2018
-- **Django Blog - Part 4 - Blog Popularity** ==> COMPLETED | 15/01/2018
-- **Django Blog - Part 5 - Forms & Images** ==> COMPLETED | 15/01/2018
-- **Custom User & Email Authentication** ==> COMPLETED | 16/01/2018
-- **Flatpages** ==> COMPLETED | 17/01/2018
+### **STREAM 1: Front End Development**
+- **Setting up Git** ==> COMPLETED | 27/07/2017
+- **Reopening the Box Model** ==> COMPLETED | 26/07/2017
+- **Reopening the Box Model 2** ==> COMPLETED | 26/07/2017
+- **Positioning & CSS** ==> COMPLETED | 28/07/2017
+- **Media** ==> COMPLETED | 29/07/2017
+- **Gradients, Transforms, & Transitions** ==> COMPLETED | 02/08/2017
+- **Navbar - CSS Selectors** ==> COMPLETED | 03/08/2017
+- **Flexbox** ==> COMPLETED | 04/08/2017
+- **Semantic Web & Font** ==> COMPLETED | 06/08/2017
+- **User Experience Desing** ==> COMPLETED | 09/08/2017
+- **Balsamiq** ==> COMPLETED | 10/08/2017
+- **Forms** ==> COMPLETED | 10/08/2017
+- **Bootstrap** ==> COMPLETED | 11/08/2017
+- **Bootstrap Nav Elements** ==> COMPLETED | 11/07/2017
+- **Bootstrap Responsive Design** ==> COMPLETED | 13/07/2017
+- **JavaScript Revisited** ==> COMPLETED | 22/08/2017
+- **jQuery** ==> COMPLETED | 24/08/2017
+- **jQuery Events** ==> COMPLETED | 24/08/2017
+- **jQuery: Traversing MT.DOM** ==> COMPLETED | 25/08/2017
+- **JavaScript Part 2** ==> COMPLETED | 31/08/2017
+- **Testing in JavaScript**  ==> COMPLETED | 01/09/2017
+- **Troubleshooting Tips** ==> COMPLETED | 02/09/2017
+- **AngularJS** ==> COMPLETED | 08/09/2017
+- [**STREAM 1 PROJECT - Examination Application**](https://github.com/sebam2k4/stream1-project) ==> COMPLETED 07/10/2017
 
-### Full Stack Frameworks with Django (optional new platform)
-- **Beginning Django**
-  - Hello Django (URLs, Templates, Admin, Models, ToDo App) ==> COMPLETED | 17/01/2018
-  - Testing Django
+  ### **Stream 0: Intro** => COMPLETED 04/07/2017
+- **HTML**
+- **CSS**
+- **Scratch**
+- **Javascript**
+- **Git and GitHub**
+- **Python**
