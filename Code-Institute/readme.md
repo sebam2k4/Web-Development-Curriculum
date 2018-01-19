@@ -9,6 +9,13 @@
 - **Beginning Django**
   - Hello Django (URLs, Templates, Admin, Models, ToDo App) ==> COMPLETED | 17/01/2018
   - Testing Django
+- **Authentication & Authorisation** 
+  - Logging Out ==> COMPLETED | 18/01/2018
+  - Creating Login Functionality ==> COMPLETED | 18/01/2018
+  - Authorisation ==> COMPLETED | 18/01/2018
+  - User Registration & Profiles ==> COMPLETED | 18/01/2018
+  - Password Reset ==> COMPLETED | 18/01/2018
+  - Custom Authentication ==> COMPLETED | 18/01/2018
 
 ### **STREAM 3: Full Stack Development**
 - **Hello Django - Installation & Setup** ==> COMPLETED | 17/12/2017
@@ -22,6 +29,8 @@
 - **Django Blog - Part 5 - Forms & Images** ==> COMPLETED | 15/01/2018
 - **Custom User & Email Authentication** ==> COMPLETED | 16/01/2018
 - **Flatpages** ==> COMPLETED | 17/01/2018
+- **Stripe Basic Payments** ==> COMPLETED | 19/01/2018
+- **Stripe Subscriptions** ==> COMPLETED | 19/01/2018
 
 ### **STREAM 2: Back End Development**
 - **Installing Python** ==> COMPLETED | 30/09/2017
