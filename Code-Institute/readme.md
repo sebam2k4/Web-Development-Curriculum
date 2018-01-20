@@ -16,6 +16,10 @@
   - User Registration & Profiles ==> COMPLETED | 18/01/2018
   - Password Reset ==> COMPLETED | 18/01/2018
   - Custom Authentication ==> COMPLETED | 18/01/2018
+- **Blog All About It**
+  - Create Models, Forms, Views, and Urls ==> COMPLETED | 20/01/2018
+  - Create HTML templates and CSS styles ==> COMPLETED | 20/01/2018
+  - Let's Go Live (Travis and Heroku) ==> COMPLETED | 20/01/2018
 
 ### **STREAM 3: Full Stack Development**
 - **Hello Django - Installation & Setup** ==> COMPLETED | 17/12/2017
