@@ -19,6 +19,7 @@ You will also find links to some completed projects.
 
 ## [MongoDB University](/mongoDB-university/ "View detailed info") 
 - **M001: MongoDB Basics** ==> IN PROGRESS
+- **M101P: MongoDB for Developers (Python)** ==> IN PROGRESS
 
 ## [Codecademy](/Codecademy/ "View projects and detailed info")
 - **Learn HTML & CSS Part 1** ==> COMPLETED | 03/2017
