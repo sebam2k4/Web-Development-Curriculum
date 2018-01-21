@@ -35,6 +35,7 @@
 - **Flatpages** ==> COMPLETED | 17/01/2018
 - **Stripe Basic Payments** ==> COMPLETED | 19/01/2018
 - **Stripe Subscriptions** ==> COMPLETED | 19/01/2018
+- **Making Apps Reusable With Github** ==> COMPLETED | 20/01/2018
 
 ### **STREAM 2: Back End Development**
 - **Installing Python** ==> COMPLETED | 30/09/2017
