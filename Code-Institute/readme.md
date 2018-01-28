@@ -21,7 +21,8 @@
   - Create HTML templates and CSS styles ==> COMPLETED | 20/01/2018
   - Let's Go Live (Travis and Heroku) ==> COMPLETED | 20/01/2018
 - **eCommerce Mini Project**
-  - Products and SHopping Cart ==> COMPLETED | 25/01/2018
+  - Products and Shopping Cart ==> COMPLETED | 25/01/2018
+  - Finding and Purchasing Products ==> COMPLETED | 27/01/2018
 
 ### **STREAM 3: Full Stack Development**
 - **Hello Django - Installation & Setup** ==> COMPLETED | 17/12/2017
