@@ -1,11 +1,11 @@
 # [MongoDB University](https://university.mongodb.com/ "Visit MongoDB University")
 
 ## M001: MongoDB Basics
-#### IN PROGRESS
+#### COMPLETED | 29/01/2018
 - **Chapter 1: Introduction** ==> COMPLETED 11/01/2018
 - **Chapter 2: The MongoDB Query Language + Atlas** ==> COMPLETED 19/01/2018
-- **Chapter 3: Deeper Dive on the MongoDB Query Language**
-- **Final Exam**
+- **Chapter 3: Deeper Dive on the MongoDB Query Language** ==> COMPLETED 29/01/2018
+- **Final Exam** ==> COMPLETED 29/01/2018
 
 ## M101P: MongoDB for Developers (Python)
 #### IN PROGRESS
