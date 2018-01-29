@@ -19,12 +19,23 @@ Python + Pymongo + Bottle
   - Bottle Framework: Handling Form Content
   - Bottle Framework: Using Cookies
   - Pymongo: Exception Processing
-- **Chapter 2: CRUD** ==> IN PROGRESS
+- **Chapter 2: CRUD** ==> COMPLETED 20/01/2018
   - Creating Documents
   - Reading Documents
   - Operators
   - Updating Documents
-- **Chapter 3: Schema Design**
+- **Chapter 3: Schema Design** ==> COMPLETED 29/01/2018
+  - MongoDB Schema Design
+  - Relational Normalization
+  - Living Without Constraints
+  - Living Without Transactions
+  - One to One Relations
+  - One to Many Relations
+  - Many to Many Relations
+  - Benefits of Embedding
+  - Trees
+  - When to Denormalize
+  - Handling Blobs (GRIDFS)
 - **Chapter 4: Performance**
 - **Chapter 5: Aggregation Framework**
 - **Chapter 6: Application Engineering**
