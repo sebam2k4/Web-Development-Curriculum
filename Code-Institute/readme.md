@@ -1,7 +1,7 @@
 # [Code Institute](https://www.codeinstitute.net/ "Visit Code Institute")
 
 ## Full Stack Web Developer - Mentored Online Programme
-#### Diploma in Software Development - Level 6 NFQ
+#### Diploma in Software Development - Level 6 NFQ (Ireland)
 #### STARTED: 26/07/2017
 #### IN PROGRESS
 
@@ -38,9 +38,12 @@
 - **Flatpages** ==> COMPLETED | 17/01/2018
 - **Stripe Basic Payments** ==> COMPLETED | 19/01/2018
 - **Stripe Subscriptions** ==> COMPLETED | 19/01/2018
+- **PayPal Basic Payments** ==> COMPLETED | 21/03/2018
+- **PayPal Subscriptions** ==> COMPLETED | 21/03/2018
 - **Making Apps Reusable With Github** ==> COMPLETED | 20/01/2018
 - **Create a Django-Based Forum** ==> COMPLETED | 1/02/2018
 - **Creating Forum Polls** ==> COMPLETED | 04/02/2018
+- **Django's Testing Framework** ==> IN PROGRESS
 - **Django Rest Framework** ==> COMPLETED | 08/02/2018
 
 ### **STREAM 2: Back End Development**
