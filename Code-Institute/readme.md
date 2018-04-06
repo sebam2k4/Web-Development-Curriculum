@@ -43,8 +43,9 @@
 - **Making Apps Reusable With Github** ==> COMPLETED | 20/01/2018
 - **Create a Django-Based Forum** ==> COMPLETED | 1/02/2018
 - **Creating Forum Polls** ==> COMPLETED | 04/02/2018
-- **Django's Testing Framework** ==> IN PROGRESS
+- **Django's Testing Framework** ==> COMPLETED | 08/02/2018
 - **Django Rest Framework** ==> COMPLETED | 08/02/2018
+- **Deployment** ==> COMPLETED | 06/04/2018
 
 ### **STREAM 2: Back End Development**
 - **Installing Python** ==> COMPLETED | 30/09/2017
