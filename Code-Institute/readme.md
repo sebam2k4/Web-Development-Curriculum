@@ -1,28 +1,9 @@
 # [Code Institute](https://www.codeinstitute.net/ "Visit Code Institute")
 
 ## Full Stack Web Developer - Mentored Online Programme
-#### Diploma in Software Development - Level 6 NFQ (Ireland)
+#### Diploma in Full-Stack Software Development - Level 6 NFQ (Ireland)
 #### STARTED: 26/07/2017
-#### IN PROGRESS
-
-### **Full Stack Frameworks with Django** (optional new platform)
-- **Beginning Django**
-  - Hello Django (URLs, Templates, Admin, Models, ToDo App) ==> COMPLETED | 17/01/2018
-  - Testing Django
-- **Authentication & Authorisation** 
-  - Logging Out ==> COMPLETED | 18/01/2018
-  - Creating Login Functionality ==> COMPLETED | 18/01/2018
-  - Authorisation ==> COMPLETED | 18/01/2018
-  - User Registration & Profiles ==> COMPLETED | 18/01/2018
-  - Password Reset ==> COMPLETED | 18/01/2018
-  - Custom Authentication ==> COMPLETED | 18/01/2018
-- **Blog All About It**
-  - Create Models, Forms, Views, and Urls ==> COMPLETED | 20/01/2018
-  - Create HTML templates and CSS styles ==> COMPLETED | 20/01/2018
-  - Let's Go Live (Travis and Heroku) ==> COMPLETED | 20/01/2018
-- **eCommerce Mini Project**
-  - Products and Shopping Cart ==> COMPLETED | 25/01/2018
-  - Finding and Purchasing Products ==> COMPLETED | 27/01/2018
+#### COMPLETED: 30/04/2018
 
 ### **STREAM 3: Full Stack Development**
 - **Hello Django - Installation & Setup** ==> COMPLETED | 17/12/2017
@@ -46,6 +27,27 @@
 - **Django's Testing Framework** ==> COMPLETED | 08/02/2018
 - **Django Rest Framework** ==> COMPLETED | 08/02/2018
 - **Deployment** ==> COMPLETED | 06/04/2018
+- **[STREAM 3 PROJECT - eCommerce Market Full-Stack Django Application](https://github.com/sebam2k4/RTarchViz) | [View Live App](http://rtarchviz.herokuapp.com/)** ==> COMPLETED | 30/04/2018
+
+
+### **Full Stack Frameworks with Django** (optional new platform)
+- **Beginning Django**
+  - **Hello Django (URLs, Templates, Admin, Models, ToDo App)** ==> COMPLETED | 17/01/2018
+- **Authentication & Authorisation** 
+  - **Logging Out** ==> COMPLETED | 18/01/2018
+  - **Creating Login** Functionality ==> COMPLETED | 18/01/2018
+  - **Authorisation** ==> COMPLETED | 18/01/2018
+  - **User Registration & Profiles** ==> COMPLETED | 18/01/2018
+  - **Password Reset** ==> COMPLETED | 18/01/2018
+  - **Custom Authentication** ==> COMPLETED | 18/01/2018
+- **Blog All About It**
+  - **Create Models, Forms, Views, and Urls** ==> COMPLETED | 20/01/2018
+  - **Create HTML templates and CSS styles** ==> COMPLETED | 20/01/2018
+  - **Let's Go Live (Travis and Heroku)** ==> COMPLETED | 20/01/2018
+- **eCommerce Mini Project**
+  - **Products and Shopping Cart** ==> COMPLETED | 25/01/2018
+  - **Finding and Purchasing Products** ==> COMPLETED | 27/01/2018
+
 
 ### **STREAM 2: Back End Development**
 - **Installing Python** ==> COMPLETED | 30/09/2017
@@ -82,7 +84,8 @@
 - **Flask** ==> COMPLETED | 14/11/2017
 - **Creating a Data Dashboard** ==> COMPLETED | 18/11/2017
 - **Troubleshooting Tips** ==> COMPLETED | 04/11/2017
-- **STREAM 2 PROJECT** ==> IN PROGRESS
+- **[STREAM 2 PROJECT - Data Visualization Dashboard](https://github.com/sebam2k4/StackOverflow-2017-Survey-Data-Visualization) | [View Deployed App](http://stack-overflow-2017-dev-survey.herokuapp.com/)** ==> COMPLETED | 30/04/2018
+
 
 ### **STREAM 1: Front End Development**
 - **Setting up Git** ==> COMPLETED | 27/07/2017
@@ -108,9 +111,10 @@
 - **Testing in JavaScript**  ==> COMPLETED | 01/09/2017
 - **Troubleshooting Tips** ==> COMPLETED | 02/09/2017
 - **AngularJS** ==> COMPLETED | 08/09/2017
-- [**STREAM 1 PROJECT - Examination Application**](https://github.com/sebam2k4/stream1-project) ==> COMPLETED 07/10/2017
+- **[STREAM 1 PROJECT - Examination AngularJS Application](https://github.com/sebam2k4/stream1-project) | [View Deployed App](https://sebam2k4.github.io/exam-platform-angularjs/)** ==> COMPLETED 07/10/2017
 
-  ### **Stream 0: Intro** => COMPLETED 04/07/2017
+
+### **Stream 0: Intro** => COMPLETED 04/07/2017
 - **HTML**
 - **CSS**
 - **Scratch**

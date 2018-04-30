@@ -5,13 +5,15 @@ A list of online courses and other resources helping me in becoming a Full-Stack
 You will also find links to some completed projects.
 
 ## [Code Institute](/Code-Institute/ "View detailed info")
-### Diploma in Software Development - Full Stack Web Developer
-- **Stream 0** ==> COMPLETED 04/07/2017
-- **Stream 1: Front End Development** ==> COMPLETED 12/09/2017
-  - **Stream 1 Project: [Examination AngularJS App](https://github.com/sebam2k4/stream1-project)** ==> COMPLETED 07/10/2017
+#### Diploma in Full-Stack Software Development - Level 6 NFQ (Ireland)
+#### STARTED: 26/07/2017
+#### COMPLETED 30/04/2018
+- **Stream 1: Front End Development** ==> COMPLETED | 12/09/2017
+  - **Stream 1 Project: [Examination AngularJS App](https://github.com/sebam2k4/stream1-project) | [View Deployed App](https://sebam2k4.github.io/exam-platform-angularjs/)** ==> COMPLETED | 07/10/2017
 - **Stream 2: Back End Development** ==> 22/11/2017
-  - **Stream 2 Project: Dashboard** ==> IN PROGRESS
-- **Stream 3: Full Stack Development** ==> IN PROGRESS
+  - **Stream 2 Project: [Data Visualization Dashboard](https://github.com/sebam2k4/StackOverflow-2017-Survey-Data-Visualization) | [View Deployed App](http://stack-overflow-2017-dev-survey.herokuapp.com/)** ==> COMPLETED | 30/04/2018
+- **Stream 3: Full Stack Development** ==> COMPLETED | 06/04/2014
+  - **Stream 3 Project: [eCommerce Market Full-Stack Django Application](https://github.com/sebam2k4/RTarchViz) | [View Live App](http://rtarchviz.herokuapp.com/)** ==> COMPLETED | 30/04/2018
 
 
 ## [FreeCodeCamp.org](/FreeCodeCamp/ "View detailed info")
