@@ -71,7 +71,7 @@
   * Edit & Delete Clients
 
 ## JavaScript: Understanding the Weird Parts | Anthony Alicea
-### IN PROGRESS
+#### IN PROGRESS
 * **Getting Started** ==> COMPLETED | 10/10/2017
 * **Execution Contexts and Lexical Environments** ==> IN PROGRESS
   * Coceptual Aside: Syntax Parsers, Execution Contexts, and Lexical Environments

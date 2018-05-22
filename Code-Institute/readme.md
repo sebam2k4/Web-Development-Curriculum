@@ -2,8 +2,7 @@
 
 ## Full Stack Web Developer - Mentored Online Programme
 #### Diploma in Full-Stack Software Development - Level 6 NFQ (Ireland)
-#### STARTED: 26/07/2017
-#### COMPLETED: 30/04/2018
+#### STARTED: 26/07/2017 | COMPLETED: 30/04/2018
 
 ### **STREAM 3: Full Stack Development**
 - **Hello Django - Installation & Setup** ==> COMPLETED | 17/12/2017
@@ -114,7 +113,7 @@
 - **[STREAM 1 PROJECT - Examination AngularJS Application](https://github.com/sebam2k4/stream1-project) | [View Deployed App](https://sebam2k4.github.io/exam-platform-angularjs/)** ==> COMPLETED 07/10/2017
 
 
-### **Stream 0: Intro** => COMPLETED 04/07/2017
+### **Stream 0: Intro**
 - **HTML**
 - **CSS**
 - **Scratch**
