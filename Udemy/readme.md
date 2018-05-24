@@ -4,7 +4,10 @@
 #### IN PROGRESS
 * **Introduction** ==> COMPLETED 22/05/2018
 * **TypeScript Fundamentals** ==> COMPLETED 23/05/2018
-* **Angular Fundamentals**
+* **Angular Fundamentals** ==> COMPLETED 24/05/2018
+* **Displaying Data and handling Events**
+* **Building Re-usable Components**
+* **Directives**
 
 ## Modern JavaScript From the Beginning | Traversy
 #### IN PROGRESS
