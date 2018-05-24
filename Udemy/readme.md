@@ -2,8 +2,8 @@
 
 ## The Complete Angular Course: Beginner to Advanced | Mosh Hamedani
 #### IN PROGRESS
-* **Introduction** ==> COMPLETED
-* **TypeScript Fundamentals**
+* **Introduction** ==> COMPLETED 22/05/2018
+* **TypeScript Fundamentals** ==> COMPLETED 23/05/2018
 * **Angular Fundamentals**
 
 ## Modern JavaScript From the Beginning | Traversy
