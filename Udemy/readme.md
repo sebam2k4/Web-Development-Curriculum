@@ -7,7 +7,8 @@
 * **Angular Fundamentals** ==> COMPLETED 24/05/2018
 * **Displaying Data and handling Events** ==> COMPLETED 25/05/2018
 * **Building Re-usable Components** ==> COMPLETED 27/05/2018
-* **Directives**
+* **Directives** ==> COMPLETED 29/05/2018
+* **Template-Driven Forms
 
 ## Modern JavaScript From the Beginning | Traversy
 #### IN PROGRESS
