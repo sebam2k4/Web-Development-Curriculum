@@ -1,5 +1,8 @@
 # Traversy | [visit YT channel](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA "Visit Traversy Media YouTube channel")
 
+## JS OOP Crash Course
+#### COMPLETED | 25/06/2018
+[view code](/Traversy/js-oop-crash-course "view code")
 
 ## Shell Scripting Crash Course
 #### COMPLETED | 21/05/2018
