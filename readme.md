@@ -1,6 +1,6 @@
 # Personal Web Development Course Progression List
 
-A list of online courses I have completed or am currently working through that are helping me learn new tech and becoming a better developer.
+A list of online courses I have completed or am currently working through that are helping me learn new tech and become a better developer.
 
 You will also find links to some completed projects.
 
@@ -14,10 +14,6 @@ You will also find links to some completed projects.
   - Stream 2 Project: [Data Visualization Dashboard](https://github.com/sebam2k4/StackOverflow-2017-Survey-Data-Visualization) | [View Deployed App](http://stack-overflow-2017-dev-survey.herokuapp.com/) ==> COMPLETED | 30/04/2018
 - **Stream 3: Full Stack Development** ==> COMPLETED | 06/04/2014
   - Stream 3 Project: [eCommerce Market Full-Stack Django Application](https://github.com/sebam2k4/RTarchViz) | [View Live App](http://rtarchviz.herokuapp.com/) ==> COMPLETED | 30/04/2018
-
-
-## [FreeCodeCamp.org](/FreeCodeCamp/ "View detailed info")
-- **Front End Development Certification** ==> IN PROGRESS
 
 
 ## [MongoDB University](/mongoDB-university/ "View detailed info") 
@@ -44,6 +40,10 @@ You will also find links to some completed projects.
   - **Chapter 6: Understanding Databases** ==> COMPLETED | 02/08/2017
   - **Test Preparation** ==> COMPLETED | 16/08/2017
 - **CompTIA A+ 900 Series** ==> COMPLETED | 9/06/2017
+
+
+## [FreeCodeCamp.org](/FreeCodeCamp/ "View detailed info")
+- **Front End Development Certification** ==> IN PROGRESS
 
 
 ## [Scotch.io](/Scotch/ "View detailed info")
