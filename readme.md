@@ -1,12 +1,13 @@
-# Personal Full Stack Web Development Course Progression List
+# Personal Web Development Course Progression List
 
-A list of online courses and other resources helping me in becoming a Full-Stack Web Developer.
+A list of online courses I have completed or am currently working through that are helping me learn new tech and becoming a better developer.
 
 You will also find links to some completed projects.
 
 ## [Code Institute](/Code-Institute/ "View detailed info")
-#### Diploma in Full-Stack Software Development - Level 6 NFQ (Ireland)
+### Diploma in Full-Stack Software Development - Level 6 NFQ (Ireland)
 #### STARTED: 26/07/2017 | COMPLETED 30/04/2018
+[view diploma](https://www.credential.net/xnmf2fse 'Full Stack Diploma in Software Development')
 - **Stream 1: Front End Development** ==> COMPLETED | 12/09/2017
   - Stream 1 Project: [Examination AngularJS App](https://github.com/sebam2k4/stream1-project) | [View Deployed App](https://sebam2k4.github.io/exam-platform-angularjs/) ==> COMPLETED | 07/10/2017
 - **Stream 2: Back End Development** ==> 22/11/2017
@@ -18,23 +19,10 @@ You will also find links to some completed projects.
 ## [FreeCodeCamp.org](/FreeCodeCamp/ "View detailed info")
 - **Front End Development Certification** ==> IN PROGRESS
 
+
 ## [MongoDB University](/mongoDB-university/ "View detailed info") 
 - **M001: MongoDB Basics** ==> COMPLETED 29/01/2018
 
-## [Codecademy](/Codecademy/ "View projects and detailed info")
-- **Learn HTML & CSS Part 1** ==> COMPLETED | 03/2017
-- **Make a Website** ==> COMPLETED | 03/2017
-- **Learn Javascript** ==> COMPLETED | 02/2017
-- **Learn jQuery** ==> COMPLETED | 06/05/2017
-- **Learn Git** ==> COMPLETED | 12/05/2017
-- **Learn Responsive Design** ==> COMPLETED | 12/05/2017
-- **Make an Interactive Website** ==> COMPLETED | 14/05/2017
-- **Deploy a Website** ==> COMPLETED | 11/06/2017
-- **Ruby** ==> COMPLETED | 27/06/2017
-- **Learn Sass** ==> COMPLETED | 09/07/2017
-- **Learn SQL - Manipulation** ==> 25%
-- **Python** ==> 21%
-- **Learn the Command Line** ==> 46%
 
 ## [Udemy](/Udemy/ "View projects and detailed info")
 - **The Complete Angular Course: Beginner to Advanced** | Mosh Hamedani ==> 5%
@@ -72,8 +60,23 @@ You will also find links to some completed projects.
 - **AJAX Crash Course** ==> COMPLETED | 09/11/17
 
 
-## Edx.org
+## [Codecademy](/Codecademy/ "View projects and detailed info")
+- **Learn HTML & CSS Part 1** ==> COMPLETED | 03/2017
+- **Make a Website** ==> COMPLETED | 03/2017
+- **Learn Javascript** ==> COMPLETED | 02/2017
+- **Learn jQuery** ==> COMPLETED | 06/05/2017
+- **Learn Git** ==> COMPLETED | 12/05/2017
+- **Learn Responsive Design** ==> COMPLETED | 12/05/2017
+- **Make an Interactive Website** ==> COMPLETED | 14/05/2017
+- **Deploy a Website** ==> COMPLETED | 11/06/2017
+- **Ruby** ==> COMPLETED | 27/06/2017
+- **Learn Sass** ==> COMPLETED | 09/07/2017
+- **Learn SQL - Manipulation** ==> 25%
+- **Python** ==> 21%
+- **Learn the Command Line** ==> 46%
 
+
+## Edx.org
 - **HTML5 Introduction** | W3Cx-HTML5.0x ==> COMPLETED | 5/2016
 - **HTML5 Part 1: HTML5 Coding Essentials and Best Practices** | W3Cx-HTML5.1x ==> COMPLETED | 07/2016
 - **HTML5 Part 2: Advanced Techniques for Designing HTML5 Apps** | W3Cx-HTML5.2x ==> COMPLETED | 08/2016
