@@ -90,12 +90,20 @@
   * The Scope Chain
   * Scope, ES6, and let
   * Asynchronous Callbacks
-* **Types and Operators** ==> IN PROGRESS
+* **Types and Operators** ==> COMPLETED | 30/06/2018
   * CA: Types and JS
   * Primitive Types
   * CA: Operators
   * Operator Precedence and Associativity Table
-  
+  * CA: Coersion
+  * Comparison Operators
+  * Equality Comparisons Table
+  * Existance and Booleans
+  * Default Values
+  * Framework Aside: Default Values
+* **Objects and Functions** ==> IN PROGRESS
+  * Objects and the Dot
+  * Objects and Object Literals
 
 
 ## The Complete Web Developer Course 2.0 | Rob Percival
