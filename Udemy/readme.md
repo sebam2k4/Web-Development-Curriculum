@@ -8,7 +8,7 @@
 * **Displaying Data and handling Events** ==> COMPLETED 25/05/2018
 * **Building Re-usable Components** ==> COMPLETED 27/05/2018
 * **Directives** ==> COMPLETED 29/05/2018
-* **Template-Driven Forms
+* **Template-Driven Forms**
 
 ## Modern JavaScript From the Beginning | Traversy
 #### IN PROGRESS
@@ -77,17 +77,26 @@
 ## JavaScript: Understanding the Weird Parts | Anthony Alicea
 #### IN PROGRESS
 * **Getting Started** ==> COMPLETED | 10/10/2017
-* **Execution Contexts and Lexical Environments** ==> IN PROGRESS
+* **Execution Contexts and Lexical Environments** ==> COMPLETED | 29/06/2018
   * Coceptual Aside: Syntax Parsers, Execution Contexts, and Lexical Environments
-  * Coceptual Aside: Name/Value Pairs and Objects
+  * CA: Name/Value Pairs and Objects
   * The Global Environment and the Global Scope
   * The Execution Context - Creation and Hoisting
-  * Conceptual Aside: JavaScript and 'undefined'
+  * CA: JavaScript and 'undefined'
   * The Execution Context - Code Execution
-  * Conceptual Aside: Single Threaded, Synchronous Execution
+  * CA: Single Threaded, Synchronous Execution
   * Function Invocation and the Execution Stack
   * Functions, Context, and Variable Environments
   * The Scope Chain
+  * Scope, ES6, and let
+  * Asynchronous Callbacks
+* **Types and Operators** ==> IN PROGRESS
+  * CA: Types and JS
+  * Primitive Types
+  * CA: Operators
+  * Operator Precedence and Associativity Table
+  
+
 
 ## The Complete Web Developer Course 2.0 | Rob Percival
 #### IN PROGRESS
