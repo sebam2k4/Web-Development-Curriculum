@@ -79,7 +79,7 @@
 * **Getting Started** ==> COMPLETED | 10/10/2017
 * **Execution Contexts and Lexical Environments** ==> COMPLETED | 29/06/2018
   * Coceptual Aside: Syntax Parsers, Execution Contexts, and Lexical Environments
-  * CA: Name/Value Pairs and Objects
+  * Coceptual Aside: Name/Value Pairs and Objects
   * The Global Environment and the Global Scope
   * The Execution Context - Creation and Hoisting
   * CA: JavaScript and 'undefined'
@@ -104,6 +104,18 @@
 * **Objects and Functions** ==> IN PROGRESS
   * Objects and the Dot
   * Objects and Object Literals
+  * Framework Aside: Faking Napespaces
+  * JSON and Object Literals
+  * Functions are Objects
+  * Function Statements and Function Expressions
+  * Conceptual Aside: By Value vs By Reference
+  * Objects, Functions, and 'this'
+  * CA: Arrays - Collections of Anything
+  * 'argumets' and spread
+  * FA: Function Overloading
+  * CA: Syntax Parsers
+  * Dangerous Aside: Automatic Semicolon Insertion
+  * Whitespace
 
 
 ## The Complete Web Developer Course 2.0 | Rob Percival
