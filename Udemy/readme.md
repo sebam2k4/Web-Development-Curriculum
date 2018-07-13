@@ -101,7 +101,7 @@
   * Existance and Booleans
   * Default Values
   * Framework Aside: Default Values
-* **Objects and Functions** ==> IN PROGRESS
+* **Objects and Functions** ==> COMPLETED | 14/07/2018
   * Objects and the Dot
   * Objects and Object Literals
   * Framework Aside: Faking Napespaces
@@ -116,6 +116,15 @@
   * CA: Syntax Parsers
   * Dangerous Aside: Automatic Semicolon Insertion
   * Whitespace
+  * IIFEs
+  * IIFEs and Safe Code
+  * Closures
+  * Function Factories
+  * Closures and Callbacks
+  * Call, Apply, Bind
+  * Functional Programming
+* **Object-Oriented JavaScript and Ptototypal Inheritance**
+  * CA: Classical vs Prototypal Inheritance
 
 
 ## The Complete Web Developer Course 2.0 | Rob Percival
