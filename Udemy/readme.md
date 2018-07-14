@@ -76,8 +76,8 @@
 
 ## JavaScript: Understanding the Weird Parts | Anthony Alicea
 #### IN PROGRESS
-* **Getting Started** ==> COMPLETED | 10/10/2017
-* **Execution Contexts and Lexical Environments** ==> COMPLETED | 29/06/2018
+* **Section 1: Getting Started** ==> COMPLETED | 10/10/2017
+* **Section 2: Execution Contexts and Lexical Environments** ==> COMPLETED | 29/06/2018
   * Coceptual Aside: Syntax Parsers, Execution Contexts, and Lexical Environments
   * Coceptual Aside: Name/Value Pairs and Objects
   * The Global Environment and the Global Scope
@@ -90,7 +90,7 @@
   * The Scope Chain
   * Scope, ES6, and let
   * Asynchronous Callbacks
-* **Types and Operators** ==> COMPLETED | 30/06/2018
+* **Section 3: Types and Operators** ==> COMPLETED | 30/06/2018
   * CA: Types and JS
   * Primitive Types
   * CA: Operators
@@ -101,7 +101,7 @@
   * Existance and Booleans
   * Default Values
   * Framework Aside: Default Values
-* **Objects and Functions** ==> COMPLETED | 14/07/2018
+* **Section 4: Objects and Functions** ==> COMPLETED | 14/07/2018
   * Objects and the Dot
   * Objects and Object Literals
   * Framework Aside: Faking Napespaces
@@ -123,8 +123,15 @@
   * Closures and Callbacks
   * Call, Apply, Bind
   * Functional Programming
-* **Object-Oriented JavaScript and Ptototypal Inheritance**
+* **Section 5: Object-Oriented JavaScript and Ptototypal Inheritance** ==> COMPLETED | 14/07/2018
   * CA: Classical vs Prototypal Inheritance
+  * Understanding the Prototype
+  * Everything is an Object (or a primitive)
+  * Reflection and Extend
+* **Section 6: Building Objects**
+  * Function Constructors, 'new', and the History of JS
+  * Function Constructors and '.prototype'
+
 
 
 ## The Complete Web Developer Course 2.0 | Rob Percival
