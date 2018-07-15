@@ -128,9 +128,21 @@
   * Understanding the Prototype
   * Everything is an Object (or a primitive)
   * Reflection and Extend
-* **Section 6: Building Objects**
+* **Section 6: Building Objects** COMPLETED 15/07/2018
   * Function Constructors, 'new', and the History of JS
   * Function Constructors and '.prototype'
+  * DA: 'new' and Functions
+  * CA: Built-in Function Constructors
+  * DA: Arrays and for..in
+  * Object.create and Pure Prototypal Inheritance
+  * ES6 and Classes
+* **Section 7: Odds and Ends** ==> COMPLETED 15/07/2018
+  * Initialization
+  * 'typeof', 'instanceof', and Figuring Out What Something Is
+  * Strict Mode
+* **Section 8: Examining Famous Frameworkds and Libraries**
+  * Learning From Other's Good Code
+  * Deep Dive Into Source Code: jQuery - Part 1
 
 
 
