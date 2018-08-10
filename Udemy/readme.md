@@ -1,5 +1,6 @@
 # Udemy | [Visit my profile](https://www.udemy.com/user/sebastian-kulig/)
 
+
 ## The Complete Angular Course: Beginner to Advanced | Mosh Hamedani
 #### IN PROGRESS
 * **Introduction** ==> COMPLETED 22/05/2018
@@ -9,6 +10,7 @@
 * **Building Re-usable Components** ==> COMPLETED 27/05/2018
 * **Directives** ==> COMPLETED 29/05/2018
 * **Template-Driven Forms**
+
 
 ## Modern JavaScript From the Beginning | Traversy
 #### IN PROGRESS
@@ -29,6 +31,7 @@
   * Task List
   * Loan Calculator
   * Number Guesser
+
 
 ## Angular 4 Front to Back | Traversy
 #### IN PROGRESS
@@ -73,6 +76,7 @@
 * **Client Panel Project** - Part 2 ==> IN PROGRESS
   * Client Balance Update
   * Edit & Delete Clients
+
 
 ## JavaScript: Understanding the Weird Parts | Anthony Alicea
 #### IN PROGRESS
@@ -142,8 +146,18 @@
   * Strict Mode
 * **Section 8: Examining Famous Frameworkds and Libraries**
   * Learning From Other's Good Code
-  * Deep Dive Into Source Code: jQuery - Part 1
-
+  * Deep Dive Into Source Code: jQuery
+* **Section 9: Build a Library**
+  * Requirements
+  * Structuring Safe Code
+  * Our Object and Prototype
+  * Properties and Chainable Methods
+  * Adding jQuery Support
+  * Good Commenting
+* **Section 10: Bonus**
+  * TypeScript, ES6, Transpiled Languages
+* **Section 11: Getting Ready for ECMAScript 6**
+  * Features
 
 
 ## The Complete Web Developer Course 2.0 | Rob Percival
@@ -151,6 +165,7 @@
 * **HTML5** ==> COMPLETED | 17/06/2017
 * **CSS3** ==> COMPLETED | 18/06/2017
 * **Javascript** ==> IN PROGRESS
+
 
 ## CompTIA A+ Certification 901. The Total Course | Mike Meyers
 #### COMPLETED | 22/03/2017
@@ -173,6 +188,7 @@
 * Portable Computing
 * Understanding Mobile Devices
 * Printers and Multifunction Devices
+
 
 ## CompTIA A+ Certification 902. The Total Course | Mike Meyers
 #### COMPLETED | 28/04/2017

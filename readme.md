@@ -24,7 +24,7 @@ You will also find links to some completed projects.
 - **The Complete Angular Course: Beginner to Advanced** | Mosh Hamedani ==> 5%
 - **Modern JavaScript From the Beginning** | Traversy ==> 28%
 - **Angular 4 Front to Back** | Traversy ==> 87%
-- **JavaScript: Understanding the Weird Parts** | Anthony Alicea ==> 82%
+- **JavaScript: Understanding the Weird Parts** | Anthony Alicea ==> COMPLETED | 10/08/2018
 - **The Complete Web Developer Course 2.0** | Rob Percival ==> 33%
 - **CompTIA A+ Certification 901. The Total Course** | Mike Meyers ==> COMPLETED | 22/03/2017
 - **CompTIA A+ Certification 902. The Total Course** | Mike Meyers ==> COMPLETED | 28/04/2017
