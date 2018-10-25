@@ -21,7 +21,7 @@ You will also find links to some completed projects.
 
 
 ## [Udemy](/Udemy/ "View projects and detailed info")
-- **The Complete Angular Course: Beginner to Advanced** | Mosh Hamedani ==> 5%
+- **The Complete Angular Course: Beginner to Advanced** | Mosh Hamedani ==> 7%
 - **Modern JavaScript From the Beginning** | Traversy ==> 28%
 - **Angular 4 Front to Back** | Traversy ==> 87%
 - **JavaScript: Understanding the Weird Parts** | Anthony Alicea ==> COMPLETED | 10/08/2018

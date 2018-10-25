@@ -10,6 +10,8 @@
 * **Building Re-usable Components** ==> COMPLETED 27/05/2018
 * **Directives** ==> COMPLETED 29/05/2018
 * **Template-Driven Forms**
+* **Project: Getting Started** ==> COMPLETED 25/10/2018
+* **Project: Authentication and Authorization** ==> IN PROGRESS
 
 
 ## Modern JavaScript From the Beginning | Traversy
